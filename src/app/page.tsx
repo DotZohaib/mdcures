@@ -318,8 +318,8 @@ export default function MedicineOrderingSystem() {
                       )}
                     </div>
                     
-                    <button 
-                      onClick={() => addToCart(item)}
+                   <button 
+                      onClick={() => addToCart(item as unknown as Medicine)}
                       className="bg-blue-500 hover:bg-blue-600 text-white rounded-lg px-3 py-1 flex items-center gap-1 text-sm transition-colors"
                     >
                       <Plus size={16} />
