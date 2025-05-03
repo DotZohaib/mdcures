@@ -1,8 +1,16 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable @typescript-eslint/no-non-null-assertion */
+/* eslint-disable @typescript-eslint/no-empty-function */
+/* eslint-disable @typescript-eslint/no-empty-interface */
+
+
 "use client"
 import React, { useState, useEffect } from 'react';
 import { Search, ShoppingCart, Send, X, Plus, Minus, FileDown } from 'lucide-react';
 import * as XLSX from 'xlsx';
 import { saveAs } from 'file-saver';
+import Link from 'next/link';
 
 // Hardcoded medicine data
 import medicineData from "../lib/data.json";
@@ -27,7 +35,7 @@ export default function MedicineOrderingSystem() {
   const [orderHistory, setOrderHistory] = useState<{date: string, items: CartItem[], orderId: string}[]>([]);
   
   // Fixed WhatsApp number
-  const whatsappNumber = "+923493237141";
+  const whatsappNumber = "+923403004201";
   
   // Search functionality
   useEffect(() => {
@@ -143,7 +151,7 @@ export default function MedicineOrderingSystem() {
     message += `\n*Total Items: ${totalItems}*\n`;
     
     // Add note about the Excel file
-    message += "\nExcel file with complete order details attached.";
+    message += "\n Your order has been placed. ";
     
     // Create file URL with encoded message
     const encodedMessage = encodeURIComponent(message);
@@ -217,14 +225,19 @@ export default function MedicineOrderingSystem() {
     saveAs(excelBlob, `MediOrder_History_${Date.now()}.xlsx`);
   };
 
+ 
+
   return (
     <div className="flex flex-col min-h-screen bg-gray-50">
       {/* Header */}
-      <header className="bg-gradient-to-r from-blue-600 to-blue-800 text-white p-4 shadow-md">
+      <header className=" bg-gradient-to-r from-blue-600 to-blue-800 text-white p-4 shadow-md">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="flex items-center">
-            <ShoppingCart size={28} className="mr-2" />
-            <h1 className="text-2xl font-bold">MediOrder Pro</h1>
+            <ShoppingCart  size={28} className="mr-2" />
+            <h1 className="text-4xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500 drop-shadow-lg">
+  <b className="text-white">MD</b> <span className="italic text-gray-300">Cure</span>
+</h1>
+
           </div>
           
           <div className="flex items-center gap-4 w-full md:w-auto">
@@ -267,10 +280,10 @@ export default function MedicineOrderingSystem() {
             </div>
             
             <div className="relative cursor-pointer">
-              <ShoppingCart 
+            <Link href="#cart"><ShoppingCart 
                 size={26} 
                 className={`transition-transform ${animateCart ? 'scale-125' : ''}`} 
-              />
+              /> </Link>
               {cart.length > 0 && (
                 <span className="absolute -top-2 -right-2 bg-red-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-xs font-bold shadow-sm">
                   {cart.reduce((sum, item) => sum + item.quantity, 0)}
@@ -320,7 +333,7 @@ export default function MedicineOrderingSystem() {
         </div>
         
         {/* Cart */}
-        <div className="w-full md:w-1/3">
+        <div id='cart' className="w-full md:w-1/3">
           <div className="bg-white rounded-lg shadow-md p-4 sticky top-4">
             <div className="flex justify-between items-center mb-4">
               <h2 className="text-xl font-bold text-gray-800 flex items-center">
@@ -426,12 +439,13 @@ export default function MedicineOrderingSystem() {
       </main>
 
       {/* Footer with WhatsApp contact */}
-      <footer className="bg-gray-800 text-white py-3 mt-auto">
-        <div className="container mx-auto text-center text-sm">
-          <p>Contact Seller: {whatsappNumber}</p>
-          <p className="mt-1 text-gray-400">All orders are saved as Excel files and sent to seller</p>
-        </div>
-      </footer>
+      <footer className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-3 mt-auto">
+  <div className="container mx-auto text-center text-sm">
+  <p className="mt-1 text-gray-400">&copy; mdcure. All rights reserved.</p>
+
+  </div>
+</footer>
+
     </div>
   );
 }
