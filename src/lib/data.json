@@ -1,0 +1,5622 @@
+[
+    {
+      "id": 1,
+      "name": "ADVANT 16",
+      "disc": 0.02
+    },
+    {
+      "id": 2,
+      "name": "DERMACLIN CREAM NEW 380",
+      "disc": 0.05
+    },
+    {
+      "id": 3,
+      "name": "SOFVASEC HCT 5/160/25",
+      "disc": 0.02
+    },
+    {
+      "id": 4,
+      "name": "A 2 Z",
+      "disc": 0.03
+    },
+    {
+      "id": 5,
+      "name": "ABOCAL 351",
+      "disc": 0.01
+    },
+    {
+      "id": 6,
+      "name": "ABOCRAN SACHEST",
+      "disc": 0.05
+    },
+    {
+      "id": 7,
+      "name": "ACABEL 8 MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 8,
+      "name": "ACCUTANE 20",
+      "disc": 0.02
+    },
+    {
+      "id": 9,
+      "name": "ACDERMIN GEL",
+      "disc": 0.02
+    },
+    {
+      "id": 10,
+      "name": "ACEFYL COUGH 150",
+      "disc": 0.08
+    },
+    {
+      "id": 11,
+      "name": "ACEFYL SYP.PLAIN",
+      "disc": 0.07
+    },
+    {
+      "id": 12,
+      "name": "ACEMED 100MG TAB",
+      "disc": 0.01
+    },
+    {
+      "id": 13,
+      "name": "ACNE MED CREAM./GEL.",
+      "disc": 0.02
+    },
+    {
+      "id": 14,
+      "name": "ACNE SOFT SOAP.",
+      "disc": 0.02
+    },
+    {
+      "id": 15,
+      "name": "ACNE WASH CREAM.",
+      "disc": 0.05
+    },
+    {
+      "id": 16,
+      "name": "ACNE WIPE GEL",
+      "disc": 0.07
+    },
+    {
+      "id": 17,
+      "name": "ACNES C 10",
+      "disc": 0.02
+    },
+    {
+      "id": 18,
+      "name": "ACNES FAIRNES FACEWASH",
+      "disc": 0
+    },
+    {
+      "id": 19,
+      "name": "ACNES VITAMIN FACEWASH",
+      "disc": 0
+    },
+    {
+      "id": 20,
+      "name": "ACNEWIPE CLEANSER",
+      "disc": 0.05
+    },
+    {
+      "id": 21,
+      "name": "ACORT CREAM.",
+      "disc": 0.01
+    },
+    {
+      "id": 22,
+      "name": "ACSOLVE GEL",
+      "disc": 0.03
+    },
+    {
+      "id": 23,
+      "name": "ACTI WHITE FACE WASH",
+      "disc": 0.07
+    },
+    {
+      "id": 24,
+      "name": "ACTIFLOR-SACHES.",
+      "disc": 0.08
+    },
+    {
+      "id": 25,
+      "name": "ACUKAT EYE DROP",
+      "disc": 0.1
+    },
+    {
+      "id": 26,
+      "name": "ACYLEX-800MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 27,
+      "name": "ADENURIC 40",
+      "disc": 0.03
+    },
+    {
+      "id": 28,
+      "name": "ADOXA 100MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 29,
+      "name": "ADRANCE 10",
+      "disc": 0.12
+    },
+    {
+      "id": 30,
+      "name": "ADRANCE 25",
+      "disc": 0.11
+    },
+    {
+      "id": 31,
+      "name": "ADRANCE M 12.5/500",
+      "disc": 0.12
+    },
+    {
+      "id": 32,
+      "name": "ADVACORT 0.1% OINTMENT",
+      "disc": 0.07
+    },
+    {
+      "id": 33,
+      "name": "ADVACORT LOTION",
+      "disc": 0.04
+    },
+    {
+      "id": 34,
+      "name": "ADVANT 8MG TAB",
+      "disc": 0.01
+    },
+    {
+      "id": 35,
+      "name": "ADVOCART 0.1% CREAM",
+      "disc": 0.07
+    },
+    {
+      "id": 36,
+      "name": "AEROKAST-10MG TAB.",
+      "disc": 0.14
+    },
+    {
+      "id": 37,
+      "name": "AIROL - N FACE WASH",
+      "disc": 0.02
+    },
+    {
+      "id": 38,
+      "name": "AIRTAL ER 200MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 39,
+      "name": "AKLEN CLEANSER",
+      "disc": 0.07
+    },
+    {
+      "id": 40,
+      "name": "ALDACTONE 100 MG",
+      "disc": 0.02
+    },
+    {
+      "id": 41,
+      "name": "ALDOMET 250MG TAB .",
+      "disc": 0.04
+    },
+    {
+      "id": 42,
+      "name": "ALITE ACNE FACEWASH",
+      "disc": 0.07
+    },
+    {
+      "id": 43,
+      "name": "ALOC  60MG CAP.",
+      "disc": 0.07
+    },
+    {
+      "id": 44,
+      "name": "ALOC 120MG TAB.",
+      "disc": 0.07
+    },
+    {
+      "id": 45,
+      "name": "AMGYDEX EYE OINT.",
+      "disc": 0.08
+    },
+    {
+      "id": 46,
+      "name": "AMODIP V 10/160",
+      "disc": 0.03
+    },
+    {
+      "id": 47,
+      "name": "AMODIP V 5/160",
+      "disc": 0.03
+    },
+    {
+      "id": 48,
+      "name": "AMODIP V 5/80 MASS PHARM",
+      "disc": 0.04
+    },
+    {
+      "id": 49,
+      "name": "AMOXIL 500MG CAPSULE .",
+      "disc": 0.01
+    },
+    {
+      "id": 50,
+      "name": "AMOXIL FORTE SYP ( 250MG )",
+      "disc": 0
+    },
+    {
+      "id": 51,
+      "name": "AMOXIL SYRUP ( 125MG )",
+      "disc": 0
+    },
+    {
+      "id": 52,
+      "name": "AMPER 5/8",
+      "disc": 0.1
+    },
+    {
+      "id": 53,
+      "name": "AMPRESS-10MG TAB.",
+      "disc": 0.11
+    },
+    {
+      "id": 54,
+      "name": "AMPREXA 10MG \"AMARAT\".",
+      "disc": 0.07
+    },
+    {
+      "id": 55,
+      "name": "AMPREXA 5MG TAB",
+      "disc": 0.05
+    },
+    {
+      "id": 56,
+      "name": "BIO ONE SHAMPOO",
+      "disc": 0.08
+    },
+    {
+      "id": 57,
+      "name": "BIO ONE VITAMIN CREAM",
+      "disc": 0.08
+    },
+    {
+      "id": 58,
+      "name": "BIOFAD CREAM",
+      "disc": 0
+    },
+    {
+      "id": 59,
+      "name": "BIOFORGE 5/160",
+      "disc": 0
+    },
+    {
+      "id": 60,
+      "name": "BIONIC 150 MG TAB. SJG",
+      "disc": 0
+    },
+    {
+      "id": 61,
+      "name": "BIOTIN 1000 N/B",
+      "disc": 0.1
+    },
+    {
+      "id": 62,
+      "name": "BIOTIN PLUS 120",
+      "disc": 0
+    },
+    {
+      "id": 63,
+      "name": "BIOTIN PLUS 30 TABLETS",
+      "disc": 0
+    },
+    {
+      "id": 64,
+      "name": "BIOTIN PLUS 60",
+      "disc": 0
+    },
+    {
+      "id": 65,
+      "name": "BISLERI TAB.",
+      "disc": 0
+    },
+    {
+      "id": 66,
+      "name": "BLOKIUM 50MG TAB.",
+      "disc": 0.1
+    },
+    {
+      "id": 67,
+      "name": "BLOTIM 0.5% DROP.",
+      "disc": 0.08
+    },
+    {
+      "id": 68,
+      "name": "BOFALGAN INJ 225",
+      "disc": 0.06
+    },
+    {
+      "id": 69,
+      "name": "BON LIFT TAB.0.5MG",
+      "disc": 0
+    },
+    {
+      "id": 70,
+      "name": "BON-ONE.0.5 TAB.",
+      "disc": 0
+    },
+    {
+      "id": 71,
+      "name": "BONCAL PLUS 30.",
+      "disc": 0
+    },
+    {
+      "id": 72,
+      "name": "BONEX-D 30 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 73,
+      "name": "BONEX-D 60 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 74,
+      "name": "BONVIVA TAB ROCHE",
+      "disc": 0.04
+    },
+    {
+      "id": 75,
+      "name": "BRACIN EYE DROP.",
+      "disc": 0.19
+    },
+    {
+      "id": 76,
+      "name": "BREXIN 20MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 77,
+      "name": "BRIVERA 25",
+      "disc": 0
+    },
+    {
+      "id": 78,
+      "name": "BROMALEX 3MG TAB.",
+      "disc": 0.03
+    },
+    {
+      "id": 79,
+      "name": "BRON0CHOL SYP.",
+      "disc": 0.05
+    },
+    {
+      "id": 80,
+      "name": "BRONEX SYP.",
+      "disc": 0.02
+    },
+    {
+      "id": 81,
+      "name": "BRUFEEN SYP.",
+      "disc": 0
+    },
+    {
+      "id": 82,
+      "name": "BUSRON TAB.SJG",
+      "disc": 0
+    },
+    {
+      "id": 83,
+      "name": "BUTEX 60 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 84,
+      "name": "BUZON 4MG",
+      "disc": 0.06
+    },
+    {
+      "id": 85,
+      "name": "BUZON-1MG TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 86,
+      "name": "BUZON-3MG TAB.",
+      "disc": 0.05
+    },
+    {
+      "id": 87,
+      "name": "BYNEVOL 2.5",
+      "disc": 0.01
+    },
+    {
+      "id": 88,
+      "name": "BYNEVOL 5",
+      "disc": 0.02
+    },
+    {
+      "id": 89,
+      "name": "BYSCARD 2.5MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 90,
+      "name": "BYSCARD 5MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 91,
+      "name": "CAC (PLUS) SMALL",
+      "disc": 0
+    },
+    {
+      "id": 92,
+      "name": "CAC 1000 (LARGE) ORANGE.",
+      "disc": 0
+    },
+    {
+      "id": 93,
+      "name": "CADIK",
+      "disc": 0.01
+    },
+    {
+      "id": 94,
+      "name": "CAL ONE D SYP",
+      "disc": 0.1
+    },
+    {
+      "id": 95,
+      "name": "CAL ONE D TAB.",
+      "disc": 0.09
+    },
+    {
+      "id": 96,
+      "name": "CALAMOX (625MG) TAB BOSCH.",
+      "disc": 0
+    },
+    {
+      "id": 97,
+      "name": "CALAMOX 156MG SYP 90ML",
+      "disc": 0
+    },
+    {
+      "id": 98,
+      "name": "CALAMOX 1GM 285.83",
+      "disc": 0
+    },
+    {
+      "id": 99,
+      "name": "CALAMOX DS 312.5 SYP",
+      "disc": 0.01
+    },
+    {
+      "id": 100,
+      "name": "CALAMOX INJ 1.2G",
+      "disc": 0.1
+    },
+    {
+      "id": 101,
+      "name": "CALCEE PLUS +(300)",
+      "disc": 0.07
+    },
+    {
+      "id": 102,
+      "name": "CALCITE 600 TAB (LARGE)",
+      "disc": 0
+    },
+    {
+      "id": 103,
+      "name": "CALCIUM 600+VITAMIN D N/B",
+      "disc": 0.18
+    },
+    {
+      "id": 104,
+      "name": "CALCIUM MAGNESSIUM",
+      "disc": 0.1
+    },
+    {
+      "id": 105,
+      "name": "CALCIUM P SYP 199",
+      "disc": 0.1
+    },
+    {
+      "id": 106,
+      "name": "CALFINA PLUS",
+      "disc": 0.15
+    },
+    {
+      "id": 107,
+      "name": "CALPOL (6 PLUS) SYP.",
+      "disc": 0
+    },
+    {
+      "id": 108,
+      "name": "CALPOL SYP",
+      "disc": 0
+    },
+    {
+      "id": 109,
+      "name": "CALPOL TAB.",
+      "disc": 0
+    },
+    {
+      "id": 110,
+      "name": "CALTRATE D",
+      "disc": 0.08
+    },
+    {
+      "id": 111,
+      "name": "CLOBEVATE CREAM (L) STIEFIL",
+      "disc": 0
+    },
+    {
+      "id": 112,
+      "name": "CLOMID TAB",
+      "disc": 0.01
+    },
+    {
+      "id": 113,
+      "name": "CLOZOL LOTION",
+      "disc": 0.07
+    },
+    {
+      "id": 114,
+      "name": "CLOZOLE CREAM",
+      "disc": 0.06
+    },
+    {
+      "id": 115,
+      "name": "CLOZOLE H CREAM",
+      "disc": 0.08
+    },
+    {
+      "id": 116,
+      "name": "CLYCIN V CREAM. LARG",
+      "disc": 0.06
+    },
+    {
+      "id": 117,
+      "name": "CO EZIDAY 50MG",
+      "disc": 0
+    },
+    {
+      "id": 118,
+      "name": "CO Q-10 200 N/B",
+      "disc": 0.1
+    },
+    {
+      "id": 119,
+      "name": "COBOLMIN TAB",
+      "disc": 0.26
+    },
+    {
+      "id": 120,
+      "name": "COD LIVER OIL OMEGA NB",
+      "disc": 0.09
+    },
+    {
+      "id": 121,
+      "name": "COFERB DROP DROP",
+      "disc": 0
+    },
+    {
+      "id": 122,
+      "name": "COFERB PLUS SYP",
+      "disc": 0
+    },
+    {
+      "id": 123,
+      "name": "COFERB SYP.",
+      "disc": 0
+    },
+    {
+      "id": 124,
+      "name": "COFREST SYP.",
+      "disc": 0.06
+    },
+    {
+      "id": 125,
+      "name": "COLAPEP SACHET",
+      "disc": 0
+    },
+    {
+      "id": 126,
+      "name": "COLREST DROP",
+      "disc": 0.02
+    },
+    {
+      "id": 127,
+      "name": "COMBIHALE 0.5-2.5",
+      "disc": 0.12
+    },
+    {
+      "id": 128,
+      "name": "COMBIVER 200MG CAP",
+      "disc": 0
+    },
+    {
+      "id": 129,
+      "name": "COMBIVER 400MG CAP.",
+      "disc": 0
+    },
+    {
+      "id": 130,
+      "name": "CONCOR 2.5 NEW",
+      "disc": 0
+    },
+    {
+      "id": 131,
+      "name": "CONTINE TAB.AMARANT",
+      "disc": 0.06
+    },
+    {
+      "id": 132,
+      "name": "CONTOUR 20 MG TABS",
+      "disc": 0
+    },
+    {
+      "id": 133,
+      "name": "CONTOUR-40 CAPS.",
+      "disc": 0
+    },
+    {
+      "id": 134,
+      "name": "CORBIS 10MG EFROZ",
+      "disc": 0.1
+    },
+    {
+      "id": 135,
+      "name": "CORBIS 2.5 84.65",
+      "disc": 0.1
+    },
+    {
+      "id": 136,
+      "name": "CORBIS 5MG EFROZ",
+      "disc": 0.09
+    },
+    {
+      "id": 137,
+      "name": "COSOME SYP.PLAIN",
+      "disc": 0.02
+    },
+    {
+      "id": 138,
+      "name": "COSOPT EYE. DROP.",
+      "disc": 0.01
+    },
+    {
+      "id": 139,
+      "name": "COVAM 10/160",
+      "disc": 0
+    },
+    {
+      "id": 140,
+      "name": "COVATE LOTION",
+      "disc": 0.06
+    },
+    {
+      "id": 141,
+      "name": "COVERSAM 4MG/10MG .",
+      "disc": 0
+    },
+    {
+      "id": 142,
+      "name": "COVERSAM 4MG/5MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 143,
+      "name": "COVERSYL 2MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 144,
+      "name": "CRAN MAX AQUA SYP",
+      "disc": 0
+    },
+    {
+      "id": 145,
+      "name": "CRAN MAX SACHET",
+      "disc": 0
+    },
+    {
+      "id": 146,
+      "name": "CRANFLO NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 147,
+      "name": "CRESTAT 10MG TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 148,
+      "name": "CRESTAT 20MG TAB.",
+      "disc": 0.07
+    },
+    {
+      "id": 149,
+      "name": "CRESTAT 5 235.05",
+      "disc": 0.04
+    },
+    {
+      "id": 150,
+      "name": "CUREZOLE CREAM",
+      "disc": 0.02
+    },
+    {
+      "id": 151,
+      "name": "CURIL SHAMPOO.",
+      "disc": 0.01
+    },
+    {
+      "id": 152,
+      "name": "CURINE DROP",
+      "disc": 0.04
+    },
+    {
+      "id": 153,
+      "name": "CUTIS 125 TAB TABROS",
+      "disc": 0.01
+    },
+    {
+      "id": 154,
+      "name": "CUTIS 250MG TAB",
+      "disc": 0.02
+    },
+    {
+      "id": 155,
+      "name": "CUTIVATE CREAM 10GM",
+      "disc": 0
+    },
+    {
+      "id": 156,
+      "name": "CYCLOGEST 200MG TAB",
+      "disc": 0.04
+    },
+    {
+      "id": 157,
+      "name": "CYCLOGEST 400MG TAB",
+      "disc": 0.05
+    },
+    {
+      "id": 158,
+      "name": "D-TOX SKIN FACEWASH",
+      "disc": 0.18
+    },
+    {
+      "id": 159,
+      "name": "D3-1000IU NATURE BOUNTY",
+      "disc": 0.08
+    },
+    {
+      "id": 160,
+      "name": "D3-2000IU NATURE BOUNTY",
+      "disc": 0.09
+    },
+    {
+      "id": 161,
+      "name": "DAKTARIN ORAL GEL",
+      "disc": 0.02
+    },
+    {
+      "id": 162,
+      "name": "DAPA 5",
+      "disc": 0.01
+    },
+    {
+      "id": 163,
+      "name": "DAPLOZ 10",
+      "disc": 0.03
+    },
+    {
+      "id": 164,
+      "name": "DAPLOZMET 5/1000",
+      "disc": 0.02
+    },
+    {
+      "id": 165,
+      "name": "DE-LICE ANTI SHAMPOO",
+      "disc": 0
+    },
+    {
+      "id": 166,
+      "name": "DROMAX-250 SYP.",
+      "disc": 0.02
+    },
+    {
+      "id": 167,
+      "name": "DROMOX DROP",
+      "disc": 0.03
+    },
+    {
+      "id": 168,
+      "name": "DULAN 30 930",
+      "disc": 0
+    },
+    {
+      "id": 169,
+      "name": "DULAN 60 HILTON 1320",
+      "disc": 0.01
+    },
+    {
+      "id": 170,
+      "name": "DUPHALAC (S) SMALL",
+      "disc": 0
+    },
+    {
+      "id": 171,
+      "name": "DURAGESIC FORTE TAB",
+      "disc": 0
+    },
+    {
+      "id": 172,
+      "name": "DURAGESIC TAB",
+      "disc": 0.02
+    },
+    {
+      "id": 173,
+      "name": "DURON PLUS 30 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 174,
+      "name": "DYCLO 50MG TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 175,
+      "name": "DYCLO INJ 10'S( NEW )",
+      "disc": 0
+    },
+    {
+      "id": 176,
+      "name": "E CELL 400IU NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 177,
+      "name": "E-1000IU NATURE BOUNTY",
+      "disc": 0.08
+    },
+    {
+      "id": 178,
+      "name": "E-LIFE",
+      "disc": 0
+    },
+    {
+      "id": 179,
+      "name": "ECASIL-600MG .",
+      "disc": 0
+    },
+    {
+      "id": 180,
+      "name": "ECZEMUS 0.1%",
+      "disc": 0.01
+    },
+    {
+      "id": 181,
+      "name": "EFFIDEX LOTION.",
+      "disc": 0
+    },
+    {
+      "id": 182,
+      "name": "EFFIGENTA CREAM.",
+      "disc": 0
+    },
+    {
+      "id": 183,
+      "name": "EFFIGENTA OINT.",
+      "disc": 0
+    },
+    {
+      "id": 184,
+      "name": "EFIDEX CREAM",
+      "disc": 0
+    },
+    {
+      "id": 185,
+      "name": "ELAGEN OIL",
+      "disc": 0.09
+    },
+    {
+      "id": 186,
+      "name": "ELAGEN SHAMPOO",
+      "disc": 0.09
+    },
+    {
+      "id": 187,
+      "name": "ELFERB SYP",
+      "disc": 0.01
+    },
+    {
+      "id": 188,
+      "name": "ELSOFT BAR",
+      "disc": 0.08
+    },
+    {
+      "id": 189,
+      "name": "EMPA L 5/25",
+      "disc": 0
+    },
+    {
+      "id": 190,
+      "name": "EMPAA 25 1400",
+      "disc": 0
+    },
+    {
+      "id": 191,
+      "name": "EMPAA L 10/5",
+      "disc": 0
+    },
+    {
+      "id": 192,
+      "name": "EMPAA-M 12.5/500",
+      "disc": 0
+    },
+    {
+      "id": 193,
+      "name": "EMSYN 10",
+      "disc": 0.01
+    },
+    {
+      "id": 194,
+      "name": "EMSYN 25",
+      "disc": 0.02
+    },
+    {
+      "id": 195,
+      "name": "EMSYN MET 12.5/500",
+      "disc": 0.02
+    },
+    {
+      "id": 196,
+      "name": "ENFLOR SACHES",
+      "disc": 0.01
+    },
+    {
+      "id": 197,
+      "name": "ENVEPE TAB",
+      "disc": 0
+    },
+    {
+      "id": 198,
+      "name": "ENZ10 50 MG",
+      "disc": 0.15
+    },
+    {
+      "id": 199,
+      "name": "EPLAZYME SYP NEWWW",
+      "disc": 0.01
+    },
+    {
+      "id": 200,
+      "name": "ERYTHROCIN 250 TAB  +",
+      "disc": 0
+    },
+    {
+      "id": 201,
+      "name": "ERYTHROCIN SYP.",
+      "disc": 0
+    },
+    {
+      "id": 202,
+      "name": "ESTAR 5MG TAB 5 5 5",
+      "disc": 0
+    },
+    {
+      "id": 203,
+      "name": "ESTAR-10MG TAB 10 10 10",
+      "disc": 0
+    },
+    {
+      "id": 204,
+      "name": "ESTAR-20MG TAB 20 20 20",
+      "disc": 0
+    },
+    {
+      "id": 205,
+      "name": "ETIPRO CAP 20MG.",
+      "disc": 0.32
+    },
+    {
+      "id": 206,
+      "name": "ETOXIB 120 (203)",
+      "disc": 0
+    },
+    {
+      "id": 207,
+      "name": "ETOXIB 60MG NEW",
+      "disc": 0
+    },
+    {
+      "id": 208,
+      "name": "ETOXIB 90 392",
+      "disc": 0
+    },
+    {
+      "id": 209,
+      "name": "EUTHRIX CAP",
+      "disc": 0.01
+    },
+    {
+      "id": 210,
+      "name": "EUTHRIX DF SHAMPOO",
+      "disc": 0.02
+    },
+    {
+      "id": 211,
+      "name": "EUTHRIX ULTRA SHAMPOO",
+      "disc": 0.01
+    },
+    {
+      "id": 212,
+      "name": "EVENING PRIMROSE OIL SOFTGELL N",
+      "disc": 0.09
+    },
+    {
+      "id": 213,
+      "name": "EVENTONE 4 FACEWASH",
+      "disc": 0
+    },
+    {
+      "id": 214,
+      "name": "EVENTONE BODY MILK",
+      "disc": 0
+    },
+    {
+      "id": 215,
+      "name": "EVENTONE C 500 TAB",
+      "disc": 0
+    },
+    {
+      "id": 216,
+      "name": "EVENTONE-C CREAM",
+      "disc": 0
+    },
+    {
+      "id": 217,
+      "name": "EXAPRO 10MG TAB",
+      "disc": 0.03
+    },
+    {
+      "id": 218,
+      "name": "EXAPRO 20MG TAB",
+      "disc": 0.03
+    },
+    {
+      "id": 219,
+      "name": "EXFORGE 10/160.",
+      "disc": 0
+    },
+    {
+      "id": 220,
+      "name": "EXFORGE 5/80MG TAB",
+      "disc": 0
+    },
+    {
+      "id": 221,
+      "name": "FUDIC CREAM LARGE.",
+      "disc": 0.02
+    },
+    {
+      "id": 222,
+      "name": "FUNGIX 150MG PLATINUM.",
+      "disc": 0
+    },
+    {
+      "id": 223,
+      "name": "FUNGONE 150MG SAMI",
+      "disc": 0
+    },
+    {
+      "id": 224,
+      "name": "FUSIDERM CREAM ( L )",
+      "disc": 0.12
+    },
+    {
+      "id": 225,
+      "name": "FUSIKEN B CREAM",
+      "disc": 0.01
+    },
+    {
+      "id": 226,
+      "name": "FUSIL CREAM ( L ).",
+      "disc": 0
+    },
+    {
+      "id": 227,
+      "name": "FUSIL CREAM ( S ).",
+      "disc": 0
+    },
+    {
+      "id": 228,
+      "name": "FUSIL HC CREAM (S)",
+      "disc": 0
+    },
+    {
+      "id": 229,
+      "name": "FUSIL HC CREAM < L >.",
+      "disc": 0
+    },
+    {
+      "id": 230,
+      "name": "GABICA 100MG CAP",
+      "disc": 0.02
+    },
+    {
+      "id": 231,
+      "name": "GABICA 75MG CAP",
+      "disc": 0.02
+    },
+    {
+      "id": 232,
+      "name": "GABLIN 150MG CAP",
+      "disc": 0.09
+    },
+    {
+      "id": 233,
+      "name": "GABLIN 50 MG CAPS",
+      "disc": 0.08
+    },
+    {
+      "id": 234,
+      "name": "GABLIN 75MG CAP",
+      "disc": 0.09
+    },
+    {
+      "id": 235,
+      "name": "GALZA MET 50/1000",
+      "disc": 0.12
+    },
+    {
+      "id": 236,
+      "name": "GANATON 50 995",
+      "disc": 0
+    },
+    {
+      "id": 237,
+      "name": "GANATON OD TAB.",
+      "disc": 0
+    },
+    {
+      "id": 238,
+      "name": "GARLIC 100 NATURE BOUNTY",
+      "disc": 0.09
+    },
+    {
+      "id": 239,
+      "name": "GARLIC 2000MG NATURE BOUNTY",
+      "disc": 0.09
+    },
+    {
+      "id": 240,
+      "name": "GARLIC NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 241,
+      "name": "GENCELL 60 TABLETS",
+      "disc": 0.02
+    },
+    {
+      "id": 242,
+      "name": "GENURIN FORTE TAB.*",
+      "disc": 0.02
+    },
+    {
+      "id": 243,
+      "name": "GESUNDEN MAGNUS",
+      "disc": 0
+    },
+    {
+      "id": 244,
+      "name": "GESUNDEN MULTI",
+      "disc": 0
+    },
+    {
+      "id": 245,
+      "name": "GESUNDEN PREVIT",
+      "disc": 0
+    },
+    {
+      "id": 246,
+      "name": "GETRYL-2MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 247,
+      "name": "GETRYL-3MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 248,
+      "name": "GETRYL-4MG 30S TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 249,
+      "name": "GINKGO BILOBA 120",
+      "disc": 0.09
+    },
+    {
+      "id": 250,
+      "name": "GINKGO BILOBA 60",
+      "disc": 0.1
+    },
+    {
+      "id": 251,
+      "name": "GINKGO FOCUS NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 252,
+      "name": "GINSENG 250",
+      "disc": 0.01
+    },
+    {
+      "id": 253,
+      "name": "GINSENG COMPLEX NB",
+      "disc": 0.11
+    },
+    {
+      "id": 254,
+      "name": "GLANTRIM DROP. ATCO",
+      "disc": 0.25
+    },
+    {
+      "id": 255,
+      "name": "GLEMLIN 5/10",
+      "disc": 0.06
+    },
+    {
+      "id": 256,
+      "name": "GLEMLIN 5/25",
+      "disc": 0.06
+    },
+    {
+      "id": 257,
+      "name": "GLUCOFACTOR NUTIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 258,
+      "name": "GLUCOPHAGE XR 500",
+      "disc": 0
+    },
+    {
+      "id": 259,
+      "name": "GLUCOVANCE-5MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 260,
+      "name": "GLUTA FAIR 30 CAPSULES",
+      "disc": 0.01
+    },
+    {
+      "id": 261,
+      "name": "GLUTA GLIME 30 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 262,
+      "name": "GLUTAMAX CAP",
+      "disc": 0.01
+    },
+    {
+      "id": 263,
+      "name": "GLUTAMAX CREAM",
+      "disc": 0.01
+    },
+    {
+      "id": 264,
+      "name": "GLUTAMAX SOAP",
+      "disc": 0.01
+    },
+    {
+      "id": 265,
+      "name": "GLUTAZON 500 30 CAP",
+      "disc": 0.01
+    },
+    {
+      "id": 266,
+      "name": "GNEB 2.5",
+      "disc": 0
+    },
+    {
+      "id": 267,
+      "name": "GNEB 5",
+      "disc": 0
+    },
+    {
+      "id": 268,
+      "name": "GOLD C PLUS SACHET",
+      "disc": 0.01
+    },
+    {
+      "id": 269,
+      "name": "GOURIC 40MG TAB",
+      "disc": 0.01
+    },
+    {
+      "id": 270,
+      "name": "GRAVINATE SYP (SMALL)",
+      "disc": 0.01
+    },
+    {
+      "id": 271,
+      "name": "GREEN TEE COMPLEX",
+      "disc": 0.01
+    },
+    {
+      "id": 272,
+      "name": "GTN OINTMENT",
+      "disc": 0
+    },
+    {
+      "id": 273,
+      "name": "GULUCOPHAGE XR 1000",
+      "disc": 0
+    },
+    {
+      "id": 274,
+      "name": "GULUCOPHAGE XR 750",
+      "disc": 0
+    },
+    {
+      "id": 275,
+      "name": "GUMLOCK.",
+      "disc": 0.01
+    },
+    {
+      "id": 276,
+      "name": "JARDY 25",
+      "disc": 0.03
+    },
+    {
+      "id": 277,
+      "name": "JARDY MET 12.5/500 519.74",
+      "disc": 0.04
+    },
+    {
+      "id": 278,
+      "name": "JENTIN MET 50/1000",
+      "disc": 0
+    },
+    {
+      "id": 279,
+      "name": "JENTIN MET XR 100/1000",
+      "disc": 0.02
+    },
+    {
+      "id": 280,
+      "name": "JENTIN-MET 50/500",
+      "disc": 0.01
+    },
+    {
+      "id": 281,
+      "name": "JEZETA 10/10  HILTON",
+      "disc": 0.02
+    },
+    {
+      "id": 282,
+      "name": "JF SULFUR SOAP",
+      "disc": 0.02
+    },
+    {
+      "id": 283,
+      "name": "JOINTIN-D 30 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 284,
+      "name": "JOINTIN-D 60 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 285,
+      "name": "JONTILET SACHE",
+      "disc": 0.07
+    },
+    {
+      "id": 286,
+      "name": "K-KORT INJ.",
+      "disc": 0.02
+    },
+    {
+      "id": 287,
+      "name": "K-LOT INJ",
+      "disc": 0
+    },
+    {
+      "id": 288,
+      "name": "K-STON TAB",
+      "disc": 0
+    },
+    {
+      "id": 289,
+      "name": "KINZ-10MG INJ.",
+      "disc": 0
+    },
+    {
+      "id": 290,
+      "name": "KINZ-20MG INJ.",
+      "disc": 0
+    },
+    {
+      "id": 291,
+      "name": "KITCON SOLUTION",
+      "disc": 0.03
+    },
+    {
+      "id": 292,
+      "name": "L ARGININE 500 NATURE BOUNTY",
+      "disc": 0.08
+    },
+    {
+      "id": 293,
+      "name": "L-ARGININE 60 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 294,
+      "name": "L-CARNITINE NB",
+      "disc": 0.09
+    },
+    {
+      "id": 295,
+      "name": "LACOLEP 50MG HILTON",
+      "disc": 0.01
+    },
+    {
+      "id": 296,
+      "name": "LACTA D NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 297,
+      "name": "LALAP 100MG GENIX",
+      "disc": 0.01
+    },
+    {
+      "id": 298,
+      "name": "LALAP 50MG GENIX",
+      "disc": 0.01
+    },
+    {
+      "id": 299,
+      "name": "LAMNET 100MG (SEARLE)",
+      "disc": 0
+    },
+    {
+      "id": 300,
+      "name": "LANTUS SOLOSTAR PEN.",
+      "disc": 0
+    },
+    {
+      "id": 301,
+      "name": "LANZIT CAP 14.S",
+      "disc": 0
+    },
+    {
+      "id": 302,
+      "name": "LAZMA CREAM LARGE",
+      "disc": 0.26
+    },
+    {
+      "id": 303,
+      "name": "LEANAX",
+      "disc": 0.01
+    },
+    {
+      "id": 304,
+      "name": "LECTAMORE NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 305,
+      "name": "LEDERPLEX SYP.",
+      "disc": 0
+    },
+    {
+      "id": 306,
+      "name": "LEFLOX 250MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 307,
+      "name": "LEFORA 10",
+      "disc": 0.02
+    },
+    {
+      "id": 308,
+      "name": "LEFORA 20 1760",
+      "disc": 0.01
+    },
+    {
+      "id": 309,
+      "name": "LEGENT -25",
+      "disc": 0.06
+    },
+    {
+      "id": 310,
+      "name": "LEGENT 50 AMARANT",
+      "disc": 0.06
+    },
+    {
+      "id": 311,
+      "name": "LEPRIDE 25",
+      "disc": 0.09
+    },
+    {
+      "id": 312,
+      "name": "LEPRIDE 50",
+      "disc": 0.09
+    },
+    {
+      "id": 313,
+      "name": "LERACE 500MG TAB. 664.6",
+      "disc": 0
+    },
+    {
+      "id": 314,
+      "name": "LERADIP 10MG HIGH MONT",
+      "disc": 0.09
+    },
+    {
+      "id": 315,
+      "name": "LERRACE INJ",
+      "disc": 0.18
+    },
+    {
+      "id": 316,
+      "name": "LERRRACE 250 391.",
+      "disc": 0
+    },
+    {
+      "id": 317,
+      "name": "LEVOPRIAD 50MG TAB.",
+      "disc": 0.04
+    },
+    {
+      "id": 318,
+      "name": "LEVOPRIDE 25 (406.78)",
+      "disc": 0.01
+    },
+    {
+      "id": 319,
+      "name": "LEXATONIL 3",
+      "disc": 0.02
+    },
+    {
+      "id": 320,
+      "name": "LICE-O-NIL CREAM.",
+      "disc": 0.01
+    },
+    {
+      "id": 321,
+      "name": "LIMIGZOL 2.5",
+      "disc": 0
+    },
+    {
+      "id": 322,
+      "name": "LINVESTA 5MG",
+      "disc": 0.05
+    },
+    {
+      "id": 323,
+      "name": "LIPIGET-20MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 324,
+      "name": "LIPIGET-40MG TAB. GETZ",
+      "disc": 0.01
+    },
+    {
+      "id": 325,
+      "name": "LIPITOR-10MG TAB.*",
+      "disc": 0
+    },
+    {
+      "id": 326,
+      "name": "LIPITOR-20MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 327,
+      "name": "LIPOZIN 60 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 328,
+      "name": "LIVER LIFE NEW HEALTH AID",
+      "disc": 0
+    },
+    {
+      "id": 329,
+      "name": "LIVLIV CAP",
+      "disc": 0.02
+    },
+    {
+      "id": 330,
+      "name": "LIZRA EXCEL 2.5",
+      "disc": 0.09
+    },
+    {
+      "id": 331,
+      "name": "MISAR H 40/12.5",
+      "disc": 0.02
+    },
+    {
+      "id": 332,
+      "name": "MISAR H 80/12.5",
+      "disc": 0.01
+    },
+    {
+      "id": 333,
+      "name": "MITS-7.5",
+      "disc": 0.24
+    },
+    {
+      "id": 334,
+      "name": "MONTIGET 10 539.28",
+      "disc": 0.02
+    },
+    {
+      "id": 335,
+      "name": "MONTIGET SACHET 483",
+      "disc": 0.02
+    },
+    {
+      "id": 336,
+      "name": "MORGANICA 60TABLETS",
+      "disc": 0
+    },
+    {
+      "id": 337,
+      "name": "MOTILIUM TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 338,
+      "name": "MOTU 15MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 339,
+      "name": "MOTU 7.5MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 340,
+      "name": "MOXIGAN EYE DROP",
+      "disc": 0.09
+    },
+    {
+      "id": 341,
+      "name": "MOXIGET 400 TAB GETZ",
+      "disc": 0
+    },
+    {
+      "id": 342,
+      "name": "MYCODERM 250",
+      "disc": 0.14
+    },
+    {
+      "id": 343,
+      "name": "MYLOXON 500MG TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 344,
+      "name": "MYONAL 50MG TAB.*HILTON*",
+      "disc": 0.01
+    },
+    {
+      "id": 345,
+      "name": "MYTEKA (10MG) HILTON",
+      "disc": 0
+    },
+    {
+      "id": 346,
+      "name": "MYTEKA (4MG)  HILTON",
+      "disc": 0
+    },
+    {
+      "id": 347,
+      "name": "MYTEKA (5MG)  HILTON",
+      "disc": 0
+    },
+    {
+      "id": 348,
+      "name": "MYTEKA-SACHET",
+      "disc": 0
+    },
+    {
+      "id": 349,
+      "name": "NABIZ 2.5",
+      "disc": 0
+    },
+    {
+      "id": 350,
+      "name": "NADARD CREAM",
+      "disc": 0.17
+    },
+    {
+      "id": 351,
+      "name": "NATURAL VIGOR",
+      "disc": 0.08
+    },
+    {
+      "id": 352,
+      "name": "NEBIX 10",
+      "disc": 0.01
+    },
+    {
+      "id": 353,
+      "name": "NEBRA E/DROP.",
+      "disc": 0.09
+    },
+    {
+      "id": 354,
+      "name": "NEBRA EYE OINT",
+      "disc": 0.09
+    },
+    {
+      "id": 355,
+      "name": "NEO Q 10MG (PHARMEVO)",
+      "disc": 0.01
+    },
+    {
+      "id": 356,
+      "name": "NEOGAB 100 619.52",
+      "disc": 0.02
+    },
+    {
+      "id": 357,
+      "name": "NEOGAB 300MG TAB",
+      "disc": 0.02
+    },
+    {
+      "id": 358,
+      "name": "NEOLEXA 10MG",
+      "disc": 0.06
+    },
+    {
+      "id": 359,
+      "name": "NEOLEXA 15MG TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 360,
+      "name": "NEOLEXA 20MG TAB",
+      "disc": 0.06
+    },
+    {
+      "id": 361,
+      "name": "NEOPRES 10MG TAB",
+      "disc": 0.24
+    },
+    {
+      "id": 362,
+      "name": "NEORIS 1MG 175.43",
+      "disc": 0.06
+    },
+    {
+      "id": 363,
+      "name": "NEORIS 2MG TAB",
+      "disc": 0.06
+    },
+    {
+      "id": 364,
+      "name": "NEORIS 4MG TAB",
+      "disc": 0.06
+    },
+    {
+      "id": 365,
+      "name": "NEPANAC DROP.",
+      "disc": 0.09
+    },
+    {
+      "id": 366,
+      "name": "NEUAGE FACEWASH",
+      "disc": 0.02
+    },
+    {
+      "id": 367,
+      "name": "NEUROBION INJ. +",
+      "disc": 0
+    },
+    {
+      "id": 368,
+      "name": "NEUROCOLINE INJ.",
+      "disc": 0.27
+    },
+    {
+      "id": 369,
+      "name": "NEUROMET TAB ( MERCK ).",
+      "disc": 0
+    },
+    {
+      "id": 370,
+      "name": "NEWDAY 10/160MG (BLUE)",
+      "disc": 0.01
+    },
+    {
+      "id": 371,
+      "name": "NEWDAY 5/160MG (RED).",
+      "disc": 0.01
+    },
+    {
+      "id": 372,
+      "name": "NEWDAY 5/80MG (GREEN)",
+      "disc": 0.02
+    },
+    {
+      "id": 373,
+      "name": "NEZKIL 400 MG TABS",
+      "disc": 0
+    },
+    {
+      "id": 374,
+      "name": "NEZKIL 600 MG TABS",
+      "disc": 0
+    },
+    {
+      "id": 375,
+      "name": "NEZKIL INJ",
+      "disc": 0
+    },
+    {
+      "id": 376,
+      "name": "NEZKIL SYP",
+      "disc": 0
+    },
+    {
+      "id": 377,
+      "name": "NIACIN GEL",
+      "disc": 0.02
+    },
+    {
+      "id": 378,
+      "name": "NIARONIC ACNE SERUM",
+      "disc": 0.01
+    },
+    {
+      "id": 379,
+      "name": "NO-SPA INJ",
+      "disc": 0.01
+    },
+    {
+      "id": 380,
+      "name": "NOCID 20MG TAB.",
+      "disc": 0.03
+    },
+    {
+      "id": 381,
+      "name": "NOCID 40MG TAB.",
+      "disc": 0.03
+    },
+    {
+      "id": 382,
+      "name": "NOGERD 50MG TAB.",
+      "disc": 0.08
+    },
+    {
+      "id": 383,
+      "name": "NOGREY",
+      "disc": 0.18
+    },
+    {
+      "id": 384,
+      "name": "NOLVADEX TAB ICI.",
+      "disc": 0
+    },
+    {
+      "id": 385,
+      "name": "NORCOD (COD LIVER OIL) NUTRIFAC",
+      "disc": 0.02
+    },
+    {
+      "id": 386,
+      "name": "ORINASE-MET-2MG TAB.",
+      "disc": 0.03
+    },
+    {
+      "id": 387,
+      "name": "ORSLIM 120MG CAP",
+      "disc": 0
+    },
+    {
+      "id": 388,
+      "name": "OSNATE 800",
+      "disc": 0.02
+    },
+    {
+      "id": 389,
+      "name": "OSNATE D SYP (",
+      "disc": 0.06
+    },
+    {
+      "id": 390,
+      "name": "OSNATE-D",
+      "disc": 0.02
+    },
+    {
+      "id": 391,
+      "name": "OXCYM DR 30MG CAP",
+      "disc": 0.08
+    },
+    {
+      "id": 392,
+      "name": "OXIDIL 500 IV",
+      "disc": 0
+    },
+    {
+      "id": 393,
+      "name": "OXITOL NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 394,
+      "name": "PANADOL TAB.",
+      "disc": 0
+    },
+    {
+      "id": 395,
+      "name": "PAROXIN 20 TAB SS",
+      "disc": 0.08
+    },
+    {
+      "id": 396,
+      "name": "PEDICARE (ORNG)",
+      "disc": 0
+    },
+    {
+      "id": 397,
+      "name": "PENRO 1GM",
+      "disc": 0.2
+    },
+    {
+      "id": 398,
+      "name": "PENRO 500",
+      "disc": 0.18
+    },
+    {
+      "id": 399,
+      "name": "PEPCIDINE TAB 40MG.",
+      "disc": 0.16
+    },
+    {
+      "id": 400,
+      "name": "PERMIRIV LOTION",
+      "disc": 0
+    },
+    {
+      "id": 401,
+      "name": "PERSCH-1MG TAB.",
+      "disc": 0.08
+    },
+    {
+      "id": 402,
+      "name": "PERSCH-2MG TAB",
+      "disc": 0.08
+    },
+    {
+      "id": 403,
+      "name": "PERSCH-3MG TAB.",
+      "disc": 0.08
+    },
+    {
+      "id": 404,
+      "name": "PERSCH-4MG TAB.",
+      "disc": 0.09
+    },
+    {
+      "id": 405,
+      "name": "PHENOPTIC DROP",
+      "disc": 0.02
+    },
+    {
+      "id": 406,
+      "name": "PHILOGIN-50 CAP.",
+      "disc": 0.04
+    },
+    {
+      "id": 407,
+      "name": "PHOTONIC MAX SHAMPOO..",
+      "disc": 0
+    },
+    {
+      "id": 408,
+      "name": "PHOTONIX SHAMPOO",
+      "disc": 0
+    },
+    {
+      "id": 409,
+      "name": "PICNO PLUS",
+      "disc": 0.01
+    },
+    {
+      "id": 410,
+      "name": "PILIGROW HAIR OIL",
+      "disc": 0.06
+    },
+    {
+      "id": 411,
+      "name": "PILLIGROW ANA GEN SHAMPOO",
+      "disc": 0.06
+    },
+    {
+      "id": 412,
+      "name": "PILLIGROW PLUS HAIR SPRAY",
+      "disc": 0.06
+    },
+    {
+      "id": 413,
+      "name": "PITALO 1MG (200)",
+      "disc": 0
+    },
+    {
+      "id": 414,
+      "name": "PITALO-2MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 415,
+      "name": "PLANTCAL  TAB WERICK",
+      "disc": 0.15
+    },
+    {
+      "id": 416,
+      "name": "PLANTCAL SACHETS",
+      "disc": 0.15
+    },
+    {
+      "id": 417,
+      "name": "POLYBION Z CAP",
+      "disc": 0.02
+    },
+    {
+      "id": 418,
+      "name": "POLYFAX EYE",
+      "disc": 0
+    },
+    {
+      "id": 419,
+      "name": "POLYFAX SKIN CREAM",
+      "disc": 0
+    },
+    {
+      "id": 420,
+      "name": "POTASSIUM NB",
+      "disc": 0.1
+    },
+    {
+      "id": 421,
+      "name": "PRAXYL 20MG TAB.CCL",
+      "disc": 0.06
+    },
+    {
+      "id": 422,
+      "name": "PRAXYL CR 25",
+      "disc": 0.02
+    },
+    {
+      "id": 423,
+      "name": "PREDNISYNTH EYE DROPS.",
+      "disc": 0.03
+    },
+    {
+      "id": 424,
+      "name": "PREGNOVIT 60'L",
+      "disc": 0.08
+    },
+    {
+      "id": 425,
+      "name": "PREGY 75",
+      "disc": 0.01
+    },
+    {
+      "id": 426,
+      "name": "PRENATAL NATURE BOUNTY",
+      "disc": 0
+    },
+    {
+      "id": 427,
+      "name": "PRIDE 25",
+      "disc": 0.03
+    },
+    {
+      "id": 428,
+      "name": "PRIDE 50",
+      "disc": 0.06
+    },
+    {
+      "id": 429,
+      "name": "PROBASE 5 MG TABS",
+      "disc": 0.02
+    },
+    {
+      "id": 430,
+      "name": "PROLIFEN CAPS.",
+      "disc": 0
+    },
+    {
+      "id": 431,
+      "name": "PROSPAN SYRUP HIGHNOON.",
+      "disc": 0.01
+    },
+    {
+      "id": 432,
+      "name": "PROSTAMEN NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 433,
+      "name": "PROSTRYL 5MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 434,
+      "name": "PROVAS INJ AMPUALS",
+      "disc": 0
+    },
+    {
+      "id": 435,
+      "name": "PROVAS N FORTE TAB",
+      "disc": 0
+    },
+    {
+      "id": 436,
+      "name": "PROVAS N TAB",
+      "disc": 0
+    },
+    {
+      "id": 437,
+      "name": "PROVATE (LOTION)",
+      "disc": 0.02
+    },
+    {
+      "id": 438,
+      "name": "PROVATE OINT SMALL",
+      "disc": 0.02
+    },
+    {
+      "id": 439,
+      "name": "PROVATE-G CREAM.",
+      "disc": 0.03
+    },
+    {
+      "id": 440,
+      "name": "PROVATE-G OINT.",
+      "disc": 0.02
+    },
+    {
+      "id": 441,
+      "name": "SACUVIA 50 TAB",
+      "disc": 0.03
+    },
+    {
+      "id": 442,
+      "name": "SAFRIDERM C CREAM",
+      "disc": 0.04
+    },
+    {
+      "id": 443,
+      "name": "SAFRIDERM FACEWASH",
+      "disc": 0.04
+    },
+    {
+      "id": 444,
+      "name": "SAFRIDERM SKIN CREAM",
+      "disc": 0.06
+    },
+    {
+      "id": 445,
+      "name": "SAKOON TAB.",
+      "disc": 0.27
+    },
+    {
+      "id": 446,
+      "name": "SALMICORT 25/250 INH 1050",
+      "disc": 0
+    },
+    {
+      "id": 447,
+      "name": "SALMICORT NEW 1360",
+      "disc": 0.02
+    },
+    {
+      "id": 448,
+      "name": "SANGOBION CAPSULE.",
+      "disc": 0
+    },
+    {
+      "id": 449,
+      "name": "SAW PALMEETO 450 NB",
+      "disc": 0.09
+    },
+    {
+      "id": 450,
+      "name": "SCABFREE LOTION",
+      "disc": 0
+    },
+    {
+      "id": 451,
+      "name": "SCABION FORTE LOTION.",
+      "disc": 0
+    },
+    {
+      "id": 452,
+      "name": "SCIPRIDE 25MG 25 25 25.",
+      "disc": 0.08
+    },
+    {
+      "id": 453,
+      "name": "SEA CAL SACHET",
+      "disc": 0.08
+    },
+    {
+      "id": 454,
+      "name": "SEA CAL TABS",
+      "disc": 0.1
+    },
+    {
+      "id": 455,
+      "name": "SELANZ SR CAPS 365",
+      "disc": 0
+    },
+    {
+      "id": 456,
+      "name": "SERADEP-10MG TAB.",
+      "disc": 0.08
+    },
+    {
+      "id": 457,
+      "name": "SERADEP-5MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 458,
+      "name": "SERLIN 100MG TAB",
+      "disc": 0.06
+    },
+    {
+      "id": 459,
+      "name": "SERLIN-50MG TAB.",
+      "disc": 0.05
+    },
+    {
+      "id": 460,
+      "name": "SEROFT 50MG TAB.",
+      "disc": 0.08
+    },
+    {
+      "id": 461,
+      "name": "SERT-100MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 462,
+      "name": "SERTAZOL CREAM",
+      "disc": 0.15
+    },
+    {
+      "id": 463,
+      "name": "SEVEN SEAS 60 CAP",
+      "disc": 0.19
+    },
+    {
+      "id": 464,
+      "name": "SIBELIUM CAPS.",
+      "disc": 0.02
+    },
+    {
+      "id": 465,
+      "name": "SIBELIUM TAB NEW  305",
+      "disc": 0.04
+    },
+    {
+      "id": 466,
+      "name": "SILDOSO 8MG",
+      "disc": 0
+    },
+    {
+      "id": 467,
+      "name": "SINAXAMOL EXTRA TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 468,
+      "name": "SINAXAMOL TAB PLAIN",
+      "disc": 0.06
+    },
+    {
+      "id": 469,
+      "name": "SIROLINE SYP     +",
+      "disc": 0.06
+    },
+    {
+      "id": 470,
+      "name": "SITA 100 CCL",
+      "disc": 0.01
+    },
+    {
+      "id": 471,
+      "name": "SITA 50MG 539",
+      "disc": 0.04
+    },
+    {
+      "id": 472,
+      "name": "SITA MET XR 50/500 NEW",
+      "disc": 0.03
+    },
+    {
+      "id": 473,
+      "name": "SITAGLU-MET 50/1000",
+      "disc": 0.01
+    },
+    {
+      "id": 474,
+      "name": "SITAGLU-MET 50/500 TABS (S)",
+      "disc": 0
+    },
+    {
+      "id": 475,
+      "name": "SITAMET 50/1000MG (CCL)",
+      "disc": 0
+    },
+    {
+      "id": 476,
+      "name": "SITAMET XR 100/1000",
+      "disc": 0.02
+    },
+    {
+      "id": 477,
+      "name": "SITAMET XR 50/1000",
+      "disc": 0.01
+    },
+    {
+      "id": 478,
+      "name": "SKIN AQUA CLEAR WHITE",
+      "disc": 0
+    },
+    {
+      "id": 479,
+      "name": "SLEEP WELL",
+      "disc": 0.01
+    },
+    {
+      "id": 480,
+      "name": "SOFNER MOISTURIZING LOTION 423",
+      "disc": 0
+    },
+    {
+      "id": 481,
+      "name": "SOFVASC 10 (697.99)",
+      "disc": 0
+    },
+    {
+      "id": 482,
+      "name": "SOFVASC 5MG TAB",
+      "disc": 0
+    },
+    {
+      "id": 483,
+      "name": "SOFVASC HCT 5/160/12.5",
+      "disc": 0
+    },
+    {
+      "id": 484,
+      "name": "SOFVASC V  10//160",
+      "disc": 0
+    },
+    {
+      "id": 485,
+      "name": "SOFVASC V  5//160.",
+      "disc": 0
+    },
+    {
+      "id": 486,
+      "name": "SOLARIS ULTRA",
+      "disc": 0
+    },
+    {
+      "id": 487,
+      "name": "SOLIFEN 10MG TAB.(GETZ)",
+      "disc": 0
+    },
+    {
+      "id": 488,
+      "name": "SOLOGESIC EXTRA",
+      "disc": 0.09
+    },
+    {
+      "id": 489,
+      "name": "SOLOPHAR ORAL SPRAY.",
+      "disc": 0.06
+    },
+    {
+      "id": 490,
+      "name": "SOLVOCEF 500 CAP",
+      "disc": 0
+    },
+    {
+      "id": 491,
+      "name": "SOMEZOL-20.",
+      "disc": 0.24
+    },
+    {
+      "id": 492,
+      "name": "SOMOGEL GEL.",
+      "disc": 0
+    },
+    {
+      "id": 493,
+      "name": "SPASFON TAB",
+      "disc": 0.08
+    },
+    {
+      "id": 494,
+      "name": "SPASLAR NEO TAB AGP",
+      "disc": 0.06
+    },
+    {
+      "id": 495,
+      "name": "SPECTRA BLOCK SPF 100",
+      "disc": 0
+    },
+    {
+      "id": 496,
+      "name": "TITAN-1GM IV.",
+      "disc": 0.36
+    },
+    {
+      "id": 497,
+      "name": "TITAN-250MG IM.",
+      "disc": 0.28
+    },
+    {
+      "id": 498,
+      "name": "TITAN-250MG IV.",
+      "disc": 0.28
+    },
+    {
+      "id": 499,
+      "name": "TITAN-500MG IM.",
+      "disc": 0.35
+    },
+    {
+      "id": 500,
+      "name": "TONI-5 SYP.",
+      "disc": 0.06
+    },
+    {
+      "id": 501,
+      "name": "TONOFLEX-P TAB",
+      "disc": 0
+    },
+    {
+      "id": 502,
+      "name": "TOPAGEN 50MG TAB",
+      "disc": 0
+    },
+    {
+      "id": 503,
+      "name": "TOPAGEN-25MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 504,
+      "name": "TOPIRO-25MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 505,
+      "name": "TOPIRO-50MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 506,
+      "name": "TORADOL-30MG INJ.",
+      "disc": 0.08
+    },
+    {
+      "id": 507,
+      "name": "TORATE 25 TAB CCL",
+      "disc": 0.06
+    },
+    {
+      "id": 508,
+      "name": "TORATE 50MG TAB",
+      "disc": 0.06
+    },
+    {
+      "id": 509,
+      "name": "TOREX IR TAB.",
+      "disc": 0
+    },
+    {
+      "id": 510,
+      "name": "TRAMAL 50 CAP.",
+      "disc": 0
+    },
+    {
+      "id": 511,
+      "name": "TRAMAL-SR TAB.",
+      "disc": 0
+    },
+    {
+      "id": 512,
+      "name": "TRAMAPAR TAB",
+      "disc": 0.08
+    },
+    {
+      "id": 513,
+      "name": "TRAVOCORT CREAM.",
+      "disc": 0.02
+    },
+    {
+      "id": 514,
+      "name": "TRIGNAL TABLETS NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 515,
+      "name": "TRIOMEGA NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 516,
+      "name": "TRISIL TAB.",
+      "disc": 0.03
+    },
+    {
+      "id": 517,
+      "name": "TRYCEPTION 30 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 518,
+      "name": "TURMERIC 450 NATURE BOUNTY",
+      "disc": 0.08
+    },
+    {
+      "id": 519,
+      "name": "TURMERIC CURCUMIN",
+      "disc": 0.01
+    },
+    {
+      "id": 520,
+      "name": "TYNOSEED GEL",
+      "disc": 0
+    },
+    {
+      "id": 521,
+      "name": "U-PROGEST 100",
+      "disc": 0.08
+    },
+    {
+      "id": 522,
+      "name": "U-VEIL LOTION SPF-30",
+      "disc": 0.03
+    },
+    {
+      "id": 523,
+      "name": "ULSANIC SYP.",
+      "disc": 0
+    },
+    {
+      "id": 524,
+      "name": "UNIX 100MG TAB",
+      "disc": 0.01
+    },
+    {
+      "id": 525,
+      "name": "UROCIT K",
+      "disc": 0.04
+    },
+    {
+      "id": 526,
+      "name": "URODONAL GRANULS BOTTLE",
+      "disc": 0.04
+    },
+    {
+      "id": 527,
+      "name": "UROPIN 100",
+      "disc": 0.04
+    },
+    {
+      "id": 528,
+      "name": "URSO 250MG CAP AGP.",
+      "disc": 0.02
+    },
+    {
+      "id": 529,
+      "name": "URSO 500MG CAP.",
+      "disc": 0.02
+    },
+    {
+      "id": 530,
+      "name": "VAGIBACT VAGINAL CREAM.",
+      "disc": 0
+    },
+    {
+      "id": 531,
+      "name": "VAGISAF PRO",
+      "disc": 0.02
+    },
+    {
+      "id": 532,
+      "name": "VAGISAFE WASH",
+      "disc": 0.01
+    },
+    {
+      "id": 533,
+      "name": "VALAM 10/160",
+      "disc": 0.08
+    },
+    {
+      "id": 534,
+      "name": "VALAM 5/160MG",
+      "disc": 0.08
+    },
+    {
+      "id": 535,
+      "name": "VALAM 5/80MG TAB.410",
+      "disc": 0.04
+    },
+    {
+      "id": 536,
+      "name": "VALCARD 10/160",
+      "disc": 0.14
+    },
+    {
+      "id": 537,
+      "name": "VALCARD 5/160",
+      "disc": 0.14
+    },
+    {
+      "id": 538,
+      "name": "VALCARD 5/80",
+      "disc": 0.18
+    },
+    {
+      "id": 539,
+      "name": "VALISAONE C LOTION",
+      "disc": 0.06
+    },
+    {
+      "id": 540,
+      "name": "VELON M 50/1000",
+      "disc": 0.02
+    },
+    {
+      "id": 541,
+      "name": "VELON M 50/500",
+      "disc": 0
+    },
+    {
+      "id": 542,
+      "name": "VELON M 50/850",
+      "disc": 0
+    },
+    {
+      "id": 543,
+      "name": "VELOSEF 125 SYP",
+      "disc": 0
+    },
+    {
+      "id": 544,
+      "name": "VELOSEF 250 SYP",
+      "disc": 0
+    },
+    {
+      "id": 545,
+      "name": "VELOSEF INJ 1GMS.",
+      "disc": 0
+    },
+    {
+      "id": 546,
+      "name": "VELOSEF INJ 250MG.",
+      "disc": 0
+    },
+    {
+      "id": 547,
+      "name": "VELOSEF INJ 500MG.*",
+      "disc": 0
+    },
+    {
+      "id": 548,
+      "name": "VENAC DROP",
+      "disc": 0.08
+    },
+    {
+      "id": 549,
+      "name": "VENICE  XR 75",
+      "disc": 0.24
+    },
+    {
+      "id": 550,
+      "name": "VENICE 37.5",
+      "disc": 0.26
+    },
+    {
+      "id": 551,
+      "name": "ZAFNOL 50MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 552,
+      "name": "ZATOFEN SYP. NEW PRISE",
+      "disc": 0
+    },
+    {
+      "id": 553,
+      "name": "ZEEGAP ( 100MG )",
+      "disc": 0
+    },
+    {
+      "id": 554,
+      "name": "ZEEGAP (75MG) TABS",
+      "disc": 0
+    },
+    {
+      "id": 555,
+      "name": "ZEEST TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 556,
+      "name": "ZESTORTIC-20MG ICI",
+      "disc": 0
+    },
+    {
+      "id": 557,
+      "name": "ZESTRIL 10",
+      "disc": 0
+    },
+    {
+      "id": 558,
+      "name": "ZESTRIL 5 232.15",
+      "disc": 0
+    },
+    {
+      "id": 559,
+      "name": "ZEXA 10",
+      "disc": 0.03
+    },
+    {
+      "id": 560,
+      "name": "ZEZOT 500 MG TABS",
+      "disc": 0.08
+    },
+    {
+      "id": 561,
+      "name": "ZINACEF 250MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 562,
+      "name": "ZINC 50 NATURE BOUNTY",
+      "disc": 0.1
+    },
+    {
+      "id": 563,
+      "name": "ZN PLUS BAR",
+      "disc": 0.02
+    },
+    {
+      "id": 564,
+      "name": "ZN PLUS SHAMPOO",
+      "disc": 0.02
+    },
+    {
+      "id": 565,
+      "name": "ZODIP 5MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 566,
+      "name": "ZOLANEX 150MG NEW PACK 4'",
+      "disc": 0
+    },
+    {
+      "id": 567,
+      "name": "ZOLBI -40MG TAB.",
+      "disc": 0.13
+    },
+    {
+      "id": 568,
+      "name": "ZOLOFT 100",
+      "disc": 0
+    },
+    {
+      "id": 569,
+      "name": "ZOLTAR 20 CAP",
+      "disc": 0.02
+    },
+    {
+      "id": 570,
+      "name": "ZOPENT 40 (750.02)",
+      "disc": 0
+    },
+    {
+      "id": 571,
+      "name": "ZOXY 25",
+      "disc": 0.04
+    },
+    {
+      "id": 572,
+      "name": "ZYLEXX 150",
+      "disc": 0.04
+    },
+    {
+      "id": 573,
+      "name": "ZYLEXX 75",
+      "disc": 0.03
+    },
+    {
+      "id": 574,
+      "name": "ZYRTEC TAB.*",
+      "disc": 0
+    },
+    {
+      "id": 575,
+      "name": "ANAFORTAN PLUS TAB.",
+      "disc": 0.1
+    },
+    {
+      "id": 576,
+      "name": "ANAFORTAN-INJ.",
+      "disc": 0.1
+    },
+    {
+      "id": 577,
+      "name": "ANSAID 100MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 578,
+      "name": "ANXIETY & STRESS RELIEF NB",
+      "disc": 0.1
+    },
+    {
+      "id": 579,
+      "name": "AQUAZOLE CREAM.",
+      "disc": 0.15
+    },
+    {
+      "id": 580,
+      "name": "ARBI-300MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 581,
+      "name": "ARBID D 300/25",
+      "disc": 0
+    },
+    {
+      "id": 582,
+      "name": "ARINAC FORTE TAB",
+      "disc": 0.01
+    },
+    {
+      "id": 583,
+      "name": "ARINAC SYP NEW RATE 65.84.",
+      "disc": 0
+    },
+    {
+      "id": 584,
+      "name": "ARINAC TAB.",
+      "disc": 0
+    },
+    {
+      "id": 585,
+      "name": "ARTEM 40/240 TAB.",
+      "disc": 0
+    },
+    {
+      "id": 586,
+      "name": "ARTEM 80/480",
+      "disc": 0
+    },
+    {
+      "id": 587,
+      "name": "ARYNOIN 20 CAP",
+      "disc": 0.05
+    },
+    {
+      "id": 588,
+      "name": "ARYNOIN PLUS GEL BRIGHT DIST",
+      "disc": 0.03
+    },
+    {
+      "id": 589,
+      "name": "ASCARD 75 TAB 82.94",
+      "disc": 0
+    },
+    {
+      "id": 590,
+      "name": "ASCARD PLUS 239.4",
+      "disc": 0.01
+    },
+    {
+      "id": 591,
+      "name": "ASSET CAP",
+      "disc": 0.05
+    },
+    {
+      "id": 592,
+      "name": "ATCOMID 100",
+      "disc": 0.11
+    },
+    {
+      "id": 593,
+      "name": "ATCOMID 50",
+      "disc": 0.15
+    },
+    {
+      "id": 594,
+      "name": "AUGMENTEN 375",
+      "disc": 0
+    },
+    {
+      "id": 595,
+      "name": "AUGMENTIN 1GM BD TAB.",
+      "disc": 0
+    },
+    {
+      "id": 596,
+      "name": "AUGMENTIN 625",
+      "disc": 0
+    },
+    {
+      "id": 597,
+      "name": "AUGMENTIN DS (312.50) LARGE",
+      "disc": 0
+    },
+    {
+      "id": 598,
+      "name": "AUGMENTIN SYP ( 156 ) LARGE",
+      "disc": 0
+    },
+    {
+      "id": 599,
+      "name": "AURORA 20MG TAB",
+      "disc": 0.15
+    },
+    {
+      "id": 600,
+      "name": "AVEPRAM 10",
+      "disc": 0.14
+    },
+    {
+      "id": 601,
+      "name": "AVSARTAN 10/160",
+      "disc": 0.05
+    },
+    {
+      "id": 602,
+      "name": "AVSARTAN 5/160",
+      "disc": 0.05
+    },
+    {
+      "id": 603,
+      "name": "AXCIN 500 TAB.",
+      "disc": 0.08
+    },
+    {
+      "id": 604,
+      "name": "AZOMAX 250MG CAP.",
+      "disc": 0
+    },
+    {
+      "id": 605,
+      "name": "AZOMAX SYP SANDOZ",
+      "disc": 0
+    },
+    {
+      "id": 606,
+      "name": "B-12 1000 NATURE BOUNTY",
+      "disc": 0.1
+    },
+    {
+      "id": 607,
+      "name": "B-50 B COMPLEX",
+      "disc": 0.02
+    },
+    {
+      "id": 608,
+      "name": "B-LIVE SACHET",
+      "disc": 0.34
+    },
+    {
+      "id": 609,
+      "name": "BABY AID SOAP.",
+      "disc": 0.04
+    },
+    {
+      "id": 610,
+      "name": "BABY CHEST BALM.",
+      "disc": 0.08
+    },
+    {
+      "id": 611,
+      "name": "BABYNOL SYP.",
+      "disc": 0.03
+    },
+    {
+      "id": 612,
+      "name": "BACLIN 10",
+      "disc": 0
+    },
+    {
+      "id": 613,
+      "name": "BARIZOLD SYP",
+      "disc": 0.03
+    },
+    {
+      "id": 614,
+      "name": "BEADS FACEWASH",
+      "disc": 0.02
+    },
+    {
+      "id": 615,
+      "name": "BECEFOL TAB (S). 219",
+      "disc": 0.01
+    },
+    {
+      "id": 616,
+      "name": "BERDI SAHETS",
+      "disc": 0.04
+    },
+    {
+      "id": 617,
+      "name": "BERICA 60 MG",
+      "disc": 0
+    },
+    {
+      "id": 618,
+      "name": "BETADERM CREAM (L).",
+      "disc": 0
+    },
+    {
+      "id": 619,
+      "name": "BETADERM LOTION.",
+      "disc": 0
+    },
+    {
+      "id": 620,
+      "name": "BETADERM OINMENT (L)",
+      "disc": 0
+    },
+    {
+      "id": 621,
+      "name": "BETAGENIC (OINT) LARGE.",
+      "disc": 0
+    },
+    {
+      "id": 622,
+      "name": "BETAGENIC CREAM",
+      "disc": 0
+    },
+    {
+      "id": 623,
+      "name": "BETNESOL TAB.",
+      "disc": 0
+    },
+    {
+      "id": 624,
+      "name": "BETNOVATE N 10G CREAM",
+      "disc": 0
+    },
+    {
+      "id": 625,
+      "name": "BIFLOR SACHES.",
+      "disc": 0
+    },
+    {
+      "id": 626,
+      "name": "BIFOMYK CREAM",
+      "disc": 0
+    },
+    {
+      "id": 627,
+      "name": "BIO GROW SYRUP",
+      "disc": 0
+    },
+    {
+      "id": 628,
+      "name": "BIO ONE  12% CREAM",
+      "disc": 0.07
+    },
+    {
+      "id": 629,
+      "name": "BIO ONE 10% GLYCOLIC",
+      "disc": 0.07
+    },
+    {
+      "id": 630,
+      "name": "CALWOOD C SCHETS",
+      "disc": 0
+    },
+    {
+      "id": 631,
+      "name": "CAMOZYME SYP.",
+      "disc": 0.04
+    },
+    {
+      "id": 632,
+      "name": "CANDERAL TAB (L)",
+      "disc": 0
+    },
+    {
+      "id": 633,
+      "name": "CANESTEN VAGINAL CREAM.",
+      "disc": 0
+    },
+    {
+      "id": 634,
+      "name": "CARA-20MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 635,
+      "name": "CARDNIT 2.6MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 636,
+      "name": "CARDNIT-6.4MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 637,
+      "name": "CARDURA 4 1188.9",
+      "disc": 0
+    },
+    {
+      "id": 638,
+      "name": "CARDURA-2MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 639,
+      "name": "CARICEF 200 TABS",
+      "disc": 0
+    },
+    {
+      "id": 640,
+      "name": "CARICEF 400 CAP",
+      "disc": 0
+    },
+    {
+      "id": 641,
+      "name": "CARTINOVEX PLUS",
+      "disc": 0.08
+    },
+    {
+      "id": 642,
+      "name": "CARTINOVEX TAB",
+      "disc": 0.1
+    },
+    {
+      "id": 643,
+      "name": "CARVEDA-6.25MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 644,
+      "name": "CEBOSH (400MG) CAPSULE.",
+      "disc": 0.17
+    },
+    {
+      "id": 645,
+      "name": "CEBOSH (400MG) TABLET",
+      "disc": 0.19
+    },
+    {
+      "id": 646,
+      "name": "CEBOSH DS SYP 349.13",
+      "disc": 0.17
+    },
+    {
+      "id": 647,
+      "name": "CEBOSH SYRUP 30ML 276",
+      "disc": 0.18
+    },
+    {
+      "id": 648,
+      "name": "CECLOR 125 SYP.",
+      "disc": 0.06
+    },
+    {
+      "id": 649,
+      "name": "CECLOR 250 SYRUP.",
+      "disc": 0.06
+    },
+    {
+      "id": 650,
+      "name": "CECLOR DROP.",
+      "disc": 0.06
+    },
+    {
+      "id": 651,
+      "name": "CEFALOR 125MG SYP.BOSCH",
+      "disc": 0.04
+    },
+    {
+      "id": 652,
+      "name": "CEFIGET CAP.400",
+      "disc": 0.02
+    },
+    {
+      "id": 653,
+      "name": "CEFIGET SYP 100MG.",
+      "disc": 0.02
+    },
+    {
+      "id": 654,
+      "name": "CEFIM SYP 30ML.",
+      "disc": 0
+    },
+    {
+      "id": 655,
+      "name": "CEFIM-400 CAP.",
+      "disc": 0
+    },
+    {
+      "id": 656,
+      "name": "CEFSPAN 400 CAP.( BARRET )",
+      "disc": 0
+    },
+    {
+      "id": 657,
+      "name": "CEFTONAX 2",
+      "disc": 0.02
+    },
+    {
+      "id": 658,
+      "name": "CELEBEX 100MG CAP",
+      "disc": 0
+    },
+    {
+      "id": 659,
+      "name": "CENTREM SILVER (80) TAB",
+      "disc": 0.06
+    },
+    {
+      "id": 660,
+      "name": "CENTRUM SILVER (125) TABLET",
+      "disc": 0.06
+    },
+    {
+      "id": 661,
+      "name": "CENTRUM SILVER TABS (WOMAN) 10",
+      "disc": 0.06
+    },
+    {
+      "id": 662,
+      "name": "CHESTY COUGH SYRUP",
+      "disc": 0.02
+    },
+    {
+      "id": 663,
+      "name": "CHEWCAL TAB.",
+      "disc": 0
+    },
+    {
+      "id": 664,
+      "name": "CHYMORAL FORTE (AGP)",
+      "disc": 0.04
+    },
+    {
+      "id": 665,
+      "name": "CICATRIN POWDER",
+      "disc": 0
+    },
+    {
+      "id": 666,
+      "name": "CILAVIT UC JAR",
+      "disc": 0.01
+    },
+    {
+      "id": 667,
+      "name": "CILVAIT UC STRIP",
+      "disc": 0
+    },
+    {
+      "id": 668,
+      "name": "CIPESTA-500MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 669,
+      "name": "CIPOCAIN EAR DROP.",
+      "disc": 0
+    },
+    {
+      "id": 670,
+      "name": "CIPOTIC DROP.",
+      "disc": 0
+    },
+    {
+      "id": 671,
+      "name": "CIPROXIN 500MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 672,
+      "name": "CITANEW 10MG TAB. 438.9",
+      "disc": 0.01
+    },
+    {
+      "id": 673,
+      "name": "CITANEW-20MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 674,
+      "name": "CITOGRAIN 500 MG TABS",
+      "disc": 0.06
+    },
+    {
+      "id": 675,
+      "name": "CITOGRAIN SYRUP",
+      "disc": 0.08
+    },
+    {
+      "id": 676,
+      "name": "CITOLINE TAB",
+      "disc": 0.04
+    },
+    {
+      "id": 677,
+      "name": "CITRO SODA ORANGE 20'S",
+      "disc": 0
+    },
+    {
+      "id": 678,
+      "name": "CLAFORAN 0.25MG (BLUE)",
+      "disc": 0
+    },
+    {
+      "id": 679,
+      "name": "CLAFORAN 1GM",
+      "disc": 0
+    },
+    {
+      "id": 680,
+      "name": "CLARITEK 250MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 681,
+      "name": "CLIMBAZAM SHAMPOO",
+      "disc": 0.06
+    },
+    {
+      "id": 682,
+      "name": "CLIMBAZAM ULTRA",
+      "disc": 0.06
+    },
+    {
+      "id": 683,
+      "name": "CLINICA TOOTH PASTE 75GM",
+      "disc": 0
+    },
+    {
+      "id": 684,
+      "name": "CLINICA TP 100 250",
+      "disc": 0
+    },
+    {
+      "id": 685,
+      "name": "DEEP CLEENZ FACEWASH",
+      "disc": 0.03
+    },
+    {
+      "id": 686,
+      "name": "DEEP HEAT CREAM.",
+      "disc": 0.08
+    },
+    {
+      "id": 687,
+      "name": "DEPREL 100MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 688,
+      "name": "DEPREL-50MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 689,
+      "name": "DEPRICAP CAP 30'",
+      "disc": 0.06
+    },
+    {
+      "id": 690,
+      "name": "DEPSIT 10MG TAB",
+      "disc": 0
+    },
+    {
+      "id": 691,
+      "name": "DEPSIT 5MG TAB",
+      "disc": 0
+    },
+    {
+      "id": 692,
+      "name": "DERMA-CARE SOAP",
+      "disc": 0.03
+    },
+    {
+      "id": 693,
+      "name": "DERMACLIN CREAM",
+      "disc": 0.02
+    },
+    {
+      "id": 694,
+      "name": "DERMACLIN FORTE CREAM.",
+      "disc": 0.02
+    },
+    {
+      "id": 695,
+      "name": "DERMASMOOTH LOTION",
+      "disc": 0.01
+    },
+    {
+      "id": 696,
+      "name": "DERMAXIL FACEWASH",
+      "disc": 0.06
+    },
+    {
+      "id": 697,
+      "name": "DERMAZON 30 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 698,
+      "name": "DERMIVE FACE& BODY",
+      "disc": 0.02
+    },
+    {
+      "id": 699,
+      "name": "DERMIVE SERUM",
+      "disc": 0.02
+    },
+    {
+      "id": 700,
+      "name": "DERMIVE UREA LOTION",
+      "disc": 0.01
+    },
+    {
+      "id": 701,
+      "name": "DERMOTEEN CREAM",
+      "disc": 0
+    },
+    {
+      "id": 702,
+      "name": "DERMOTEEN FACEWASH",
+      "disc": 0
+    },
+    {
+      "id": 703,
+      "name": "DERMOVATE (NN) OINT",
+      "disc": 0
+    },
+    {
+      "id": 704,
+      "name": "DERMOVATE CREAM",
+      "disc": 0
+    },
+    {
+      "id": 705,
+      "name": "DERMOVATE OINT (BROWN)",
+      "disc": 0
+    },
+    {
+      "id": 706,
+      "name": "DESCOL-10MG TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 707,
+      "name": "DESCOL-20MG TAB.",
+      "disc": 0.05
+    },
+    {
+      "id": 708,
+      "name": "DESORA SYP",
+      "disc": 0
+    },
+    {
+      "id": 709,
+      "name": "DETROFLOW TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 710,
+      "name": "DEXIMOX DROP 419",
+      "disc": 0.02
+    },
+    {
+      "id": 711,
+      "name": "DEXIVA 30",
+      "disc": 0
+    },
+    {
+      "id": 712,
+      "name": "DEXTOP 30",
+      "disc": 0
+    },
+    {
+      "id": 713,
+      "name": "DEXTOP 60",
+      "disc": 0
+    },
+    {
+      "id": 714,
+      "name": "DEXXO 30",
+      "disc": 0
+    },
+    {
+      "id": 715,
+      "name": "DEXXOO 60",
+      "disc": 0
+    },
+    {
+      "id": 716,
+      "name": "DIAGESIC P TAB.",
+      "disc": 0.08
+    },
+    {
+      "id": 717,
+      "name": "DIAJARD 10",
+      "disc": 0.05
+    },
+    {
+      "id": 718,
+      "name": "DIAJARD 12.5/500",
+      "disc": 0.05
+    },
+    {
+      "id": 719,
+      "name": "DIAMPA 10",
+      "disc": 0.06
+    },
+    {
+      "id": 720,
+      "name": "DIAMPA 25",
+      "disc": 0.06
+    },
+    {
+      "id": 721,
+      "name": "DICLORAN SR 100MG",
+      "disc": 0
+    },
+    {
+      "id": 722,
+      "name": "DIGESTINE CAPS. SJG",
+      "disc": 0
+    },
+    {
+      "id": 723,
+      "name": "DIMED S LOTION",
+      "disc": 0.01
+    },
+    {
+      "id": 724,
+      "name": "DIMIS 75MG TAB",
+      "disc": 0.05
+    },
+    {
+      "id": 725,
+      "name": "DIO PLUS 10/160",
+      "disc": 0.05
+    },
+    {
+      "id": 726,
+      "name": "DIO PLUS 5/80MG TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 727,
+      "name": "DIOVAN 160-MG",
+      "disc": 0
+    },
+    {
+      "id": 728,
+      "name": "DISTALGESIC TAB.",
+      "disc": 0.03
+    },
+    {
+      "id": 729,
+      "name": "DOBALTA 30",
+      "disc": 0.01
+    },
+    {
+      "id": 730,
+      "name": "DOLGINA 30",
+      "disc": 0.04
+    },
+    {
+      "id": 731,
+      "name": "DOLOR D.S SYP",
+      "disc": 0
+    },
+    {
+      "id": 732,
+      "name": "DOLTEE TEETHING DROP",
+      "disc": 0
+    },
+    {
+      "id": 733,
+      "name": "DOMEL TAB.",
+      "disc": 0.14
+    },
+    {
+      "id": 734,
+      "name": "DONCEPT 10 420",
+      "disc": 0.01
+    },
+    {
+      "id": 735,
+      "name": "DONECEPT 5MG TAB",
+      "disc": 0.01
+    },
+    {
+      "id": 736,
+      "name": "DOXIUM 500MG CAP.",
+      "disc": 0.03
+    },
+    {
+      "id": 737,
+      "name": "DRATE D PLUS TABS",
+      "disc": 0
+    },
+    {
+      "id": 738,
+      "name": "DRATE-70MG TAB",
+      "disc": 0
+    },
+    {
+      "id": 739,
+      "name": "DROMAX-125 SYP.",
+      "disc": 0.02
+    },
+    {
+      "id": 740,
+      "name": "EXTOR 10/160 (RED)",
+      "disc": 0
+    },
+    {
+      "id": 741,
+      "name": "EXTOR 5/160 (GREEN)",
+      "disc": 0
+    },
+    {
+      "id": 742,
+      "name": "EXTOR 5/80 (BLUE)",
+      "disc": 0
+    },
+    {
+      "id": 743,
+      "name": "EXVAL V 5/80",
+      "disc": 0
+    },
+    {
+      "id": 744,
+      "name": "EYEBRADEX  OINT",
+      "disc": 0.02
+    },
+    {
+      "id": 745,
+      "name": "EYEBRADEX EYE DROP.",
+      "disc": 0.01
+    },
+    {
+      "id": 746,
+      "name": "EYEMOX D DROP",
+      "disc": 0.08
+    },
+    {
+      "id": 747,
+      "name": "EYEMOX DROP",
+      "disc": 0.08
+    },
+    {
+      "id": 748,
+      "name": "EZAMOL 20 249.92",
+      "disc": 0.02
+    },
+    {
+      "id": 749,
+      "name": "EZIDAY (25MG)",
+      "disc": 0
+    },
+    {
+      "id": 750,
+      "name": "EZITA-10MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 751,
+      "name": "FAIR & PINK CREAM",
+      "disc": 0
+    },
+    {
+      "id": 752,
+      "name": "FAMICOL CAPS.",
+      "disc": 0
+    },
+    {
+      "id": 753,
+      "name": "FAMICOL FORTE",
+      "disc": 0
+    },
+    {
+      "id": 754,
+      "name": "FAMILA 28 143.44",
+      "disc": 0.08
+    },
+    {
+      "id": 755,
+      "name": "FAMILA INJ.150MG/ML.",
+      "disc": 0.08
+    },
+    {
+      "id": 756,
+      "name": "FAMOT 20MG TAB.",
+      "disc": 0.13
+    },
+    {
+      "id": 757,
+      "name": "FASTESO-20MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 758,
+      "name": "FEFAN DS TAB.",
+      "disc": 0
+    },
+    {
+      "id": 759,
+      "name": "FEM-X CAP",
+      "disc": 0
+    },
+    {
+      "id": 760,
+      "name": "FEMARA 2.5",
+      "disc": 0
+    },
+    {
+      "id": 761,
+      "name": "FEMI CARE GEL",
+      "disc": 0.06
+    },
+    {
+      "id": 762,
+      "name": "FEMICON DROP.",
+      "disc": 0.08
+    },
+    {
+      "id": 763,
+      "name": "FEMROSE 500 NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 764,
+      "name": "FENOGET 67MG CAP",
+      "disc": 0
+    },
+    {
+      "id": 765,
+      "name": "FERINJECT 50",
+      "disc": 0
+    },
+    {
+      "id": 766,
+      "name": "FERNOR 2MG TAB",
+      "disc": 0.06
+    },
+    {
+      "id": 767,
+      "name": "FERO SYP",
+      "disc": 0.01
+    },
+    {
+      "id": 768,
+      "name": "FERO TAB NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 769,
+      "name": "FERTI-C 5000",
+      "disc": 0
+    },
+    {
+      "id": 770,
+      "name": "FIBO JAR.",
+      "disc": 0.02
+    },
+    {
+      "id": 771,
+      "name": "FIBO SACHET",
+      "disc": 0.02
+    },
+    {
+      "id": 772,
+      "name": "FIBO SYP .",
+      "disc": 0.01
+    },
+    {
+      "id": 773,
+      "name": "FIBROCAL SACHET 525",
+      "disc": 0.13
+    },
+    {
+      "id": 774,
+      "name": "FISH OIL1200 NB",
+      "disc": 0.08
+    },
+    {
+      "id": 775,
+      "name": "FLAGYL 400MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 776,
+      "name": "FLAGYL SYP .",
+      "disc": 0
+    },
+    {
+      "id": 777,
+      "name": "FLAZOL INJ",
+      "disc": 0.02
+    },
+    {
+      "id": 778,
+      "name": "FLEET 75",
+      "disc": 0
+    },
+    {
+      "id": 779,
+      "name": "FLEET PLUS",
+      "disc": 0
+    },
+    {
+      "id": 780,
+      "name": "FLORENCE  CREAM",
+      "disc": 0.05
+    },
+    {
+      "id": 781,
+      "name": "FLOSURE .04MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 782,
+      "name": "FLUTICOMOX CREAM",
+      "disc": 0.06
+    },
+    {
+      "id": 783,
+      "name": "FLUX 20 CAPS.",
+      "disc": 0
+    },
+    {
+      "id": 784,
+      "name": "FLYTRO CREAM",
+      "disc": 0.02
+    },
+    {
+      "id": 785,
+      "name": "FML FORTE EYE DROPS.",
+      "disc": 0
+    },
+    {
+      "id": 786,
+      "name": "FML NEO EYE DROPS.",
+      "disc": 0
+    },
+    {
+      "id": 787,
+      "name": "FOCIN CAP.",
+      "disc": 0
+    },
+    {
+      "id": 788,
+      "name": "FOCIN SYP",
+      "disc": 0
+    },
+    {
+      "id": 789,
+      "name": "FORO SYP.",
+      "disc": 0
+    },
+    {
+      "id": 790,
+      "name": "FOSEDIC B CREAM",
+      "disc": 0.12
+    },
+    {
+      "id": 791,
+      "name": "FOSEDIC CREAM",
+      "disc": 0.08
+    },
+    {
+      "id": 792,
+      "name": "FOSEDIC OINTMENT",
+      "disc": 0.12
+    },
+    {
+      "id": 793,
+      "name": "FROBEN 50MG TAB",
+      "disc": 0
+    },
+    {
+      "id": 794,
+      "name": "FROBEN GEL",
+      "disc": 0
+    },
+    {
+      "id": 795,
+      "name": "GYNOCOSID TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 796,
+      "name": "GYNOSPORIN VAGINAL CREAM.",
+      "disc": 0
+    },
+    {
+      "id": 797,
+      "name": "HAIR GRO CAPS",
+      "disc": 0.08
+    },
+    {
+      "id": 798,
+      "name": "HAIR LIFE TABS",
+      "disc": 0
+    },
+    {
+      "id": 799,
+      "name": "HAIR PLUS OIL",
+      "disc": 0
+    },
+    {
+      "id": 800,
+      "name": "HAIR RENEW SHAMPOO",
+      "disc": 0
+    },
+    {
+      "id": 801,
+      "name": "HAIR SKIN NAIL NATURE BOUNTY",
+      "disc": 0.08
+    },
+    {
+      "id": 802,
+      "name": "HAIR VIT CAP.",
+      "disc": 0
+    },
+    {
+      "id": 803,
+      "name": "HELEZOL 20 CAPS.",
+      "disc": 0.2
+    },
+    {
+      "id": 804,
+      "name": "HELEZOL 40mg .",
+      "disc": 0.3
+    },
+    {
+      "id": 805,
+      "name": "HELICURE TAB.",
+      "disc": 0.09
+    },
+    {
+      "id": 806,
+      "name": "HEMOCARE SYP",
+      "disc": 0.08
+    },
+    {
+      "id": 807,
+      "name": "HI LACTA CAP",
+      "disc": 0.02
+    },
+    {
+      "id": 808,
+      "name": "HI-PRADENT M/WASH",
+      "disc": 0
+    },
+    {
+      "id": 809,
+      "name": "HILFOVIR TAB",
+      "disc": 0
+    },
+    {
+      "id": 810,
+      "name": "HILGAS SYP",
+      "disc": 0.03
+    },
+    {
+      "id": 811,
+      "name": "HINUBON 50 PLUS",
+      "disc": 0.06
+    },
+    {
+      "id": 812,
+      "name": "HINUBON PRIME",
+      "disc": 0.06
+    },
+    {
+      "id": 813,
+      "name": "HITONE FACEWASH",
+      "disc": 0.06
+    },
+    {
+      "id": 814,
+      "name": "HITOP-25MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 815,
+      "name": "HITOP-50MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 816,
+      "name": "HIVATE CREAM",
+      "disc": 0.1
+    },
+    {
+      "id": 817,
+      "name": "HIVATE LOTION.",
+      "disc": 0.1
+    },
+    {
+      "id": 818,
+      "name": "HIVATE OINT",
+      "disc": 0.1
+    },
+    {
+      "id": 819,
+      "name": "HORNY GOAT WEED CAP NB",
+      "disc": 0.09
+    },
+    {
+      "id": 820,
+      "name": "HYCORTISONE 100 MG INJ",
+      "disc": 0.18
+    },
+    {
+      "id": 821,
+      "name": "HYDRAYLLIN DM ( L ).SHORT",
+      "disc": 0
+    },
+    {
+      "id": 822,
+      "name": "HYDRILIN SYP 149",
+      "disc": 0.02
+    },
+    {
+      "id": 823,
+      "name": "HYDROQUIN-4% CREAM.",
+      "disc": 0.01
+    },
+    {
+      "id": 824,
+      "name": "HYTRIN 2MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 825,
+      "name": "HYZONATE 100MG INJ",
+      "disc": 0.08
+    },
+    {
+      "id": 826,
+      "name": "HYZONATE 250 INJ",
+      "disc": 0.1
+    },
+    {
+      "id": 827,
+      "name": "IBERET FOLIC",
+      "disc": 0
+    },
+    {
+      "id": 828,
+      "name": "ICEF SYP 30ML (ICI)",
+      "disc": 0.27
+    },
+    {
+      "id": 829,
+      "name": "IMATET INJ  **",
+      "disc": 0
+    },
+    {
+      "id": 830,
+      "name": "IMODIUM CAPS. +",
+      "disc": 0.01
+    },
+    {
+      "id": 831,
+      "name": "INDOKAST SACHET",
+      "disc": 0.14
+    },
+    {
+      "id": 832,
+      "name": "INDROP D CAP",
+      "disc": 0.13
+    },
+    {
+      "id": 833,
+      "name": "INDROP D INJ.",
+      "disc": 0.09
+    },
+    {
+      "id": 834,
+      "name": "INOCEF  250 IM",
+      "disc": 0.17
+    },
+    {
+      "id": 835,
+      "name": "INOCEF 250 IM NEW",
+      "disc": 0.19
+    },
+    {
+      "id": 836,
+      "name": "INOCEF 500 IV",
+      "disc": 0.18
+    },
+    {
+      "id": 837,
+      "name": "INOCEF IV IG NEW 575",
+      "disc": 0.27
+    },
+    {
+      "id": 838,
+      "name": "INOCEF-500MG I/M.",
+      "disc": 0.19
+    },
+    {
+      "id": 839,
+      "name": "INOSITA PLUS 50/1000 1030",
+      "disc": 0
+    },
+    {
+      "id": 840,
+      "name": "INSPIROL INH",
+      "disc": 0.02
+    },
+    {
+      "id": 841,
+      "name": "INSUGET N GETZ",
+      "disc": 0.01
+    },
+    {
+      "id": 842,
+      "name": "IPRIDE 50MG TAB.",
+      "disc": 0.18
+    },
+    {
+      "id": 843,
+      "name": "IPRIDE SR 150MG CAP.",
+      "disc": 0.19
+    },
+    {
+      "id": 844,
+      "name": "IRECON H 150+12.5TAB.",
+      "disc": 0.03
+    },
+    {
+      "id": 845,
+      "name": "IRO AID 650",
+      "disc": 0.08
+    },
+    {
+      "id": 846,
+      "name": "ISOZAM 20",
+      "disc": 0.06
+    },
+    {
+      "id": 847,
+      "name": "ITORIDE 50MG TAB.",
+      "disc": 0.05
+    },
+    {
+      "id": 848,
+      "name": "ITRAZOX CAP",
+      "disc": 0.01
+    },
+    {
+      "id": 849,
+      "name": "JARDY 10",
+      "disc": 0.02
+    },
+    {
+      "id": 850,
+      "name": "LODOPIN V 10/160",
+      "disc": 0.08
+    },
+    {
+      "id": 851,
+      "name": "LOJIN 50MG TAB",
+      "disc": 0.02
+    },
+    {
+      "id": 852,
+      "name": "LOPHOS TAB.",
+      "disc": 0
+    },
+    {
+      "id": 853,
+      "name": "LORIN-NSA SYP.",
+      "disc": 0.02
+    },
+    {
+      "id": 854,
+      "name": "LORIN-NSA TABS LARGE",
+      "disc": 0.06
+    },
+    {
+      "id": 855,
+      "name": "LOSTER 20",
+      "disc": 0
+    },
+    {
+      "id": 856,
+      "name": "LOSTER 5",
+      "disc": 0
+    },
+    {
+      "id": 857,
+      "name": "LOVIR OINT.",
+      "disc": 0.08
+    },
+    {
+      "id": 858,
+      "name": "LOWPLAT 75 PLAIN",
+      "disc": 0
+    },
+    {
+      "id": 859,
+      "name": "LOXIDOL 15MG TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 860,
+      "name": "LOXIDOL 7.5MG TAB",
+      "disc": 0.06
+    },
+    {
+      "id": 861,
+      "name": "LUMARK 250MG SEARLE",
+      "disc": 0.02
+    },
+    {
+      "id": 862,
+      "name": "LUMARK 500MG SEARLE",
+      "disc": 0
+    },
+    {
+      "id": 863,
+      "name": "MACNAZ GEL.",
+      "disc": 0.06
+    },
+    {
+      "id": 864,
+      "name": "MACROBAC SYP",
+      "disc": 0.06
+    },
+    {
+      "id": 865,
+      "name": "MACROBAC-250MG TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 866,
+      "name": "MACROBAC-500MG CAP",
+      "disc": 0.06
+    },
+    {
+      "id": 867,
+      "name": "MAGNESIUM NEW 1090",
+      "disc": 0.01
+    },
+    {
+      "id": 868,
+      "name": "MAGNESSIUM 500 NB",
+      "disc": 0.08
+    },
+    {
+      "id": 869,
+      "name": "MAGNILAX NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 870,
+      "name": "MANDALAC SERUM",
+      "disc": 0.01
+    },
+    {
+      "id": 871,
+      "name": "MAXDIF CREAM",
+      "disc": 0.01
+    },
+    {
+      "id": 872,
+      "name": "MAXDIF FACEWASH",
+      "disc": 0
+    },
+    {
+      "id": 873,
+      "name": "MAXDIF FACEWASH",
+      "disc": 0
+    },
+    {
+      "id": 874,
+      "name": "MAXDIF G TAB",
+      "disc": 0.02
+    },
+    {
+      "id": 875,
+      "name": "MAXDIF SERUM 1598",
+      "disc": 0.02
+    },
+    {
+      "id": 876,
+      "name": "MAXFLOW 0.4",
+      "disc": 0.02
+    },
+    {
+      "id": 877,
+      "name": "MAXFLOW D",
+      "disc": 0
+    },
+    {
+      "id": 878,
+      "name": "MAXINION 20 CAP 3 STRIP",
+      "disc": 0
+    },
+    {
+      "id": 879,
+      "name": "MAXIT 50 TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 880,
+      "name": "MAXIT 75 TAB.*",
+      "disc": 0.02
+    },
+    {
+      "id": 881,
+      "name": "MAXZOOM",
+      "disc": 0.02
+    },
+    {
+      "id": 882,
+      "name": "MECOGEN SL 500",
+      "disc": 0.03
+    },
+    {
+      "id": 883,
+      "name": "MEFNAC DS TAB.",
+      "disc": 0.03
+    },
+    {
+      "id": 884,
+      "name": "MEGA TAR BAR.",
+      "disc": 0.01
+    },
+    {
+      "id": 885,
+      "name": "MELAKLYR PLUS CREAM",
+      "disc": 0.01
+    },
+    {
+      "id": 886,
+      "name": "MELAS CREAM NEW",
+      "disc": 0
+    },
+    {
+      "id": 887,
+      "name": "MELAS H CREAM.",
+      "disc": 0
+    },
+    {
+      "id": 888,
+      "name": "MELATONIN 10 NATURE BOUNTY",
+      "disc": 0.08
+    },
+    {
+      "id": 889,
+      "name": "MELATONIN 3MG 30 TABLEST",
+      "disc": 0.02
+    },
+    {
+      "id": 890,
+      "name": "MELATONIN 5MG NATURE BOUNTY",
+      "disc": 0.1
+    },
+    {
+      "id": 891,
+      "name": "MELATONINE 3MG N/B",
+      "disc": 0.09
+    },
+    {
+      "id": 892,
+      "name": "MELATONON 1MG NB",
+      "disc": 0.1
+    },
+    {
+      "id": 893,
+      "name": "MELFAX 15 (180)",
+      "disc": 0.06
+    },
+    {
+      "id": 894,
+      "name": "MELFAX 7.5 132",
+      "disc": 0.04
+    },
+    {
+      "id": 895,
+      "name": "MERCIP-500MG TAB.",
+      "disc": 0.09
+    },
+    {
+      "id": 896,
+      "name": "MEROL 25MG TAB.",
+      "disc": 0.05
+    },
+    {
+      "id": 897,
+      "name": "MEROL 50MG TAB.",
+      "disc": 0.03
+    },
+    {
+      "id": 898,
+      "name": "MERONEM  500",
+      "disc": 0
+    },
+    {
+      "id": 899,
+      "name": "MERONEM 1GM INJ",
+      "disc": 0
+    },
+    {
+      "id": 900,
+      "name": "METACLON INJ (INDUS).",
+      "disc": 0
+    },
+    {
+      "id": 901,
+      "name": "METHYCOBAL TAB NEW",
+      "disc": 0
+    },
+    {
+      "id": 902,
+      "name": "MEZERON 30 MG TABS.",
+      "disc": 0.04
+    },
+    {
+      "id": 903,
+      "name": "MILK  THISTLE 100 NATURE BOUNTY",
+      "disc": 0.1
+    },
+    {
+      "id": 904,
+      "name": "MISAR 40MG",
+      "disc": 0.02
+    },
+    {
+      "id": 905,
+      "name": "NORMEGA 1000",
+      "disc": 0.01
+    },
+    {
+      "id": 906,
+      "name": "NORMEGA 500 60",
+      "disc": 0.01
+    },
+    {
+      "id": 907,
+      "name": "NORMITAB 50MG.TAB",
+      "disc": 0.06
+    },
+    {
+      "id": 908,
+      "name": "NORMITAB-25MG TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 909,
+      "name": "NOROXIN TAB (MSD).",
+      "disc": 0.02
+    },
+    {
+      "id": 910,
+      "name": "NORVACE 10MG (30 TAB)",
+      "disc": 0
+    },
+    {
+      "id": 911,
+      "name": "NORVACE 10MG (TAB 20)",
+      "disc": 0
+    },
+    {
+      "id": 912,
+      "name": "NORVACE 5MG (30 TAB)",
+      "disc": 0
+    },
+    {
+      "id": 913,
+      "name": "NORVASC V 5/160",
+      "disc": 0
+    },
+    {
+      "id": 914,
+      "name": "NORVASC V 5/80",
+      "disc": 0
+    },
+    {
+      "id": 915,
+      "name": "NORVASC V10/160",
+      "disc": 0
+    },
+    {
+      "id": 916,
+      "name": "NOVASALIC LOTION.",
+      "disc": 0
+    },
+    {
+      "id": 917,
+      "name": "NOVIDAT 500MG",
+      "disc": 0
+    },
+    {
+      "id": 918,
+      "name": "NOVIPRAZ-20MG TAB.",
+      "disc": 0.09
+    },
+    {
+      "id": 919,
+      "name": "NOVO-TEPH-40MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 920,
+      "name": "NOVONORM 2MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 921,
+      "name": "NUBEROL FORTE",
+      "disc": 0
+    },
+    {
+      "id": 922,
+      "name": "NUBEROL TAB.",
+      "disc": 0
+    },
+    {
+      "id": 923,
+      "name": "NUCAL M 30 NUTIFACTOR",
+      "disc": 0
+    },
+    {
+      "id": 924,
+      "name": "NUCAL-Z",
+      "disc": 0.01
+    },
+    {
+      "id": 925,
+      "name": "NUCEPTION NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 926,
+      "name": "NUFLEX 30",
+      "disc": 0.01
+    },
+    {
+      "id": 927,
+      "name": "NUMEX D GUMMIES",
+      "disc": 0.01
+    },
+    {
+      "id": 928,
+      "name": "NURILAX NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 929,
+      "name": "NUROTON",
+      "disc": 0.01
+    },
+    {
+      "id": 930,
+      "name": "NUTIN 2500",
+      "disc": 0.01
+    },
+    {
+      "id": 931,
+      "name": "NUTRA-C PLUS 60 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 932,
+      "name": "NUTRI-C 1000 30 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 933,
+      "name": "NUZINC",
+      "disc": 0.01
+    },
+    {
+      "id": 934,
+      "name": "OCUDINE DROP",
+      "disc": 0.03
+    },
+    {
+      "id": 935,
+      "name": "OCUMOX D DROP",
+      "disc": 0.09
+    },
+    {
+      "id": 936,
+      "name": "OCUMOX DROP",
+      "disc": 0.09
+    },
+    {
+      "id": 937,
+      "name": "OFIS 125 SYP",
+      "disc": 0.01
+    },
+    {
+      "id": 938,
+      "name": "OFLOBID 200 TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 939,
+      "name": "OFLOBID-400MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 940,
+      "name": "OGREL PLUS TAB 225.47",
+      "disc": 0.09
+    },
+    {
+      "id": 941,
+      "name": "OGREL PLUS-NEW 251",
+      "disc": 0.16
+    },
+    {
+      "id": 942,
+      "name": "OILUM SOAP",
+      "disc": 0
+    },
+    {
+      "id": 943,
+      "name": "OLANZIA 10MG TAB. WERRICK",
+      "disc": 0
+    },
+    {
+      "id": 944,
+      "name": "OLANZIA 5MG TAB.(WERRICK)",
+      "disc": 0
+    },
+    {
+      "id": 945,
+      "name": "OLEPRA-10MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 946,
+      "name": "OLEPRA-5MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 947,
+      "name": "OLINC-300MG INJ.",
+      "disc": 0.05
+    },
+    {
+      "id": 948,
+      "name": "OLINC-600MG INJ.",
+      "disc": 0.05
+    },
+    {
+      "id": 949,
+      "name": "OLONASE SPRAY",
+      "disc": 0.02
+    },
+    {
+      "id": 950,
+      "name": "OMEZOLE 20 322",
+      "disc": 0.2
+    },
+    {
+      "id": 951,
+      "name": "OMVIT",
+      "disc": 0.02
+    },
+    {
+      "id": 952,
+      "name": "ONCE A DAY MEN TABS 950",
+      "disc": 0.16
+    },
+    {
+      "id": 953,
+      "name": "ONCE A DAY WOMEN",
+      "disc": 0.16
+    },
+    {
+      "id": 954,
+      "name": "ONSERON SYP SMALL",
+      "disc": 0.01
+    },
+    {
+      "id": 955,
+      "name": "ONYCHONIL NAIL PAINT",
+      "disc": 0.01
+    },
+    {
+      "id": 956,
+      "name": "OPTHEEZ DROP",
+      "disc": 0.02
+    },
+    {
+      "id": 957,
+      "name": "OPTIVISONE",
+      "disc": 0.02
+    },
+    {
+      "id": 958,
+      "name": "ORATANE 20MG CAPS.",
+      "disc": 0.02
+    },
+    {
+      "id": 959,
+      "name": "ORINASE 1MG TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 960,
+      "name": "PROXEN 500MG (I.C.I)",
+      "disc": 0.06
+    },
+    {
+      "id": 961,
+      "name": "PROZON NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 962,
+      "name": "PULMONOL SYP NEW",
+      "disc": 0
+    },
+    {
+      "id": 963,
+      "name": "PYODINE SOLU (S).",
+      "disc": 0
+    },
+    {
+      "id": 964,
+      "name": "Q-PALGITE SYP",
+      "disc": 0.02
+    },
+    {
+      "id": 965,
+      "name": "Q-PLEX SYP",
+      "disc": 0.02
+    },
+    {
+      "id": 966,
+      "name": "Q-PLEX Z SYP",
+      "disc": 0.02
+    },
+    {
+      "id": 967,
+      "name": "QALSAN D ORANGE",
+      "disc": 0
+    },
+    {
+      "id": 968,
+      "name": "QBAL INJ.",
+      "disc": 0.15
+    },
+    {
+      "id": 969,
+      "name": "QBAL TAB.",
+      "disc": 0.15
+    },
+    {
+      "id": 970,
+      "name": "QFACTOR COENZYME Q10 100",
+      "disc": 0.01
+    },
+    {
+      "id": 971,
+      "name": "QUENCH CREAM",
+      "disc": 0
+    },
+    {
+      "id": 972,
+      "name": "QUSEL 100 765",
+      "disc": 0
+    },
+    {
+      "id": 973,
+      "name": "QUSEL-25MG TAB.641.14",
+      "disc": 0
+    },
+    {
+      "id": 974,
+      "name": "RABECID-20MG .",
+      "disc": 0.13
+    },
+    {
+      "id": 975,
+      "name": "RAMIPACE-2.5MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 976,
+      "name": "RAMIPACE-5MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 977,
+      "name": "RANOLA 500",
+      "disc": 0
+    },
+    {
+      "id": 978,
+      "name": "RASHNIL CREAM LARGE",
+      "disc": 0
+    },
+    {
+      "id": 979,
+      "name": "REEGAB ( 75MG ) 495",
+      "disc": 0.05
+    },
+    {
+      "id": 980,
+      "name": "REEGAB 75 600",
+      "disc": 0.05
+    },
+    {
+      "id": 981,
+      "name": "REIN 50MG CAP",
+      "disc": 0
+    },
+    {
+      "id": 982,
+      "name": "RELISPA TAB",
+      "disc": 0.02
+    },
+    {
+      "id": 983,
+      "name": "RELTUS EXPECT SYP",
+      "disc": 0.02
+    },
+    {
+      "id": 984,
+      "name": "RESPEROS 2MG BRIGHT",
+      "disc": 0.18
+    },
+    {
+      "id": 985,
+      "name": "RESVITOL",
+      "disc": 0.01
+    },
+    {
+      "id": 986,
+      "name": "RETIN A NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 987,
+      "name": "REVODERM CREAM",
+      "disc": 0.06
+    },
+    {
+      "id": 988,
+      "name": "RHINOSONE P SPARY",
+      "disc": 0
+    },
+    {
+      "id": 989,
+      "name": "RIGIX DROP",
+      "disc": 0
+    },
+    {
+      "id": 990,
+      "name": "RIGIX SYP.",
+      "disc": 0
+    },
+    {
+      "id": 991,
+      "name": "RIGIX TAB.",
+      "disc": 0
+    },
+    {
+      "id": 992,
+      "name": "RIMONA CAP",
+      "disc": 0.02
+    },
+    {
+      "id": 993,
+      "name": "RISEK 20 NEW",
+      "disc": 0
+    },
+    {
+      "id": 994,
+      "name": "RISEK INJ",
+      "disc": 0.09
+    },
+    {
+      "id": 995,
+      "name": "RISEK INSTA SCAHET 40MG",
+      "disc": 0
+    },
+    {
+      "id": 996,
+      "name": "RISP-1MG TAB (ADAMJEE).",
+      "disc": 0
+    },
+    {
+      "id": 997,
+      "name": "RISP-2MG TAB (ADAMJEE).",
+      "disc": 0
+    },
+    {
+      "id": 998,
+      "name": "RISP-3MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 999,
+      "name": "RISP-4MG TAB ADAM JE",
+      "disc": 0
+    },
+    {
+      "id": 1000,
+      "name": "ROCEPHIN 1GM IV",
+      "disc": 0.02
+    },
+    {
+      "id": 1001,
+      "name": "ROCEPHIN 500MG (IV).",
+      "disc": 0.02
+    },
+    {
+      "id": 1002,
+      "name": "ROCIP DROP.",
+      "disc": 0.08
+    },
+    {
+      "id": 1003,
+      "name": "ROLIP EZ 5/10",
+      "disc": 0.06
+    },
+    {
+      "id": 1004,
+      "name": "ROLIP-20MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 1005,
+      "name": "ROSUBAR 10MG TAB. B.H",
+      "disc": 0.09
+    },
+    {
+      "id": 1006,
+      "name": "ROSUBAR 20MG TAB. B.H",
+      "disc": 0.02
+    },
+    {
+      "id": 1007,
+      "name": "ROTEC 50MG TAB",
+      "disc": 0.01
+    },
+    {
+      "id": 1008,
+      "name": "ROVA 5MG BOSH",
+      "disc": 0.17
+    },
+    {
+      "id": 1009,
+      "name": "ROVATOR 10MG TAB",
+      "disc": 0.08
+    },
+    {
+      "id": 1010,
+      "name": "ROVATOR 20MG TAB",
+      "disc": 0.08
+    },
+    {
+      "id": 1011,
+      "name": "ROVISTA-10MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 1012,
+      "name": "ROVISTA-20MG TAB. 1800",
+      "disc": 0
+    },
+    {
+      "id": 1013,
+      "name": "RUB GEL",
+      "disc": 0
+    },
+    {
+      "id": 1014,
+      "name": "S-GLIPTIN PLUS 50/500 MG TABS",
+      "disc": 0.06
+    },
+    {
+      "id": 1015,
+      "name": "SPECTRA BLOCK SPF 60",
+      "disc": 0.01
+    },
+    {
+      "id": 1016,
+      "name": "SPECTRA MATT SC 40",
+      "disc": 0.01
+    },
+    {
+      "id": 1017,
+      "name": "SPECTRUM MAX",
+      "disc": 0.06
+    },
+    {
+      "id": 1018,
+      "name": "SPECTRUM S GEL",
+      "disc": 0.06
+    },
+    {
+      "id": 1019,
+      "name": "SPORANOX CAPS.",
+      "disc": 0
+    },
+    {
+      "id": 1020,
+      "name": "ST MOM.TAB.",
+      "disc": 0.04
+    },
+    {
+      "id": 1021,
+      "name": "STAARS 10",
+      "disc": 0
+    },
+    {
+      "id": 1022,
+      "name": "STAARS 20",
+      "disc": 0
+    },
+    {
+      "id": 1023,
+      "name": "STIR UP ( N.Q )",
+      "disc": 0.04
+    },
+    {
+      "id": 1024,
+      "name": "STUGERON FORT CAP.",
+      "disc": 0.02
+    },
+    {
+      "id": 1025,
+      "name": "SUNBRELLA SUNSCREEN",
+      "disc": 0.02
+    },
+    {
+      "id": 1026,
+      "name": "SUNCELL",
+      "disc": 0.01
+    },
+    {
+      "id": 1027,
+      "name": "SUNNY D CAP",
+      "disc": 0
+    },
+    {
+      "id": 1028,
+      "name": "SUPER B-COMPLEX NATUREBOUNTY",
+      "disc": 0.09
+    },
+    {
+      "id": 1029,
+      "name": "SURBEX T (S)",
+      "disc": 0
+    },
+    {
+      "id": 1030,
+      "name": "SURBEX Z (30 TAB) XYZ",
+      "disc": 0
+    },
+    {
+      "id": 1031,
+      "name": "SUSTAC TAB 2.6MG",
+      "disc": 0
+    },
+    {
+      "id": 1032,
+      "name": "SUSTAC TAB 6.4MG.",
+      "disc": 0
+    },
+    {
+      "id": 1033,
+      "name": "SYNALAR ( CREAM ) LARGE..",
+      "disc": 0
+    },
+    {
+      "id": 1034,
+      "name": "SYNALAR ( OINT ) LARGE",
+      "disc": 0
+    },
+    {
+      "id": 1035,
+      "name": "SYNALAR LOTION",
+      "disc": 0
+    },
+    {
+      "id": 1036,
+      "name": "SYNALAR N OINT LARGE",
+      "disc": 0
+    },
+    {
+      "id": 1037,
+      "name": "SYNFLEX 550MG (ICI)",
+      "disc": 0
+    },
+    {
+      "id": 1038,
+      "name": "SYNFLEX GEL",
+      "disc": 0
+    },
+    {
+      "id": 1039,
+      "name": "SYNGAB 50MG CAP",
+      "disc": 0.08
+    },
+    {
+      "id": 1040,
+      "name": "SYNGAB 75 MG CAPS",
+      "disc": 0.08
+    },
+    {
+      "id": 1041,
+      "name": "TACRUS OINTMENT",
+      "disc": 0.01
+    },
+    {
+      "id": 1042,
+      "name": "TAGIPMENT XR 50/500",
+      "disc": 0.01
+    },
+    {
+      "id": 1043,
+      "name": "TAGIPMET XR 50/1000",
+      "disc": 0
+    },
+    {
+      "id": 1044,
+      "name": "TAMSOL D STRIP",
+      "disc": 0.09
+    },
+    {
+      "id": 1045,
+      "name": "TAMSOLIN 0.4 NEW",
+      "disc": 0
+    },
+    {
+      "id": 1046,
+      "name": "TANSIN DIU TAB.",
+      "disc": 0.15
+    },
+    {
+      "id": 1047,
+      "name": "TEMPRAMIN (SMALL) SYRUP",
+      "disc": 0.02
+    },
+    {
+      "id": 1048,
+      "name": "TEMPRAMIN SYP (LARGE)",
+      "disc": 0.02
+    },
+    {
+      "id": 1049,
+      "name": "TENOFO B TAB.",
+      "disc": 0
+    },
+    {
+      "id": 1050,
+      "name": "TENORMIN 100MG",
+      "disc": 0
+    },
+    {
+      "id": 1051,
+      "name": "TENORMIN 25MG TAB 25 25 25",
+      "disc": 0
+    },
+    {
+      "id": 1052,
+      "name": "TENORMIN 50MG",
+      "disc": 0
+    },
+    {
+      "id": 1053,
+      "name": "TEPH 40MG--CAP.",
+      "disc": 0
+    },
+    {
+      "id": 1054,
+      "name": "TERBIDERM LOTION",
+      "disc": 0
+    },
+    {
+      "id": 1055,
+      "name": "TERBIDREM FORTE TAB NEW",
+      "disc": 0
+    },
+    {
+      "id": 1056,
+      "name": "TERBIMAX 250",
+      "disc": 0.02
+    },
+    {
+      "id": 1057,
+      "name": "TERBISIL 250 TAB",
+      "disc": 0.01
+    },
+    {
+      "id": 1058,
+      "name": "TERBISIL CREAM 330.83",
+      "disc": 0.01
+    },
+    {
+      "id": 1059,
+      "name": "TERBISIL LOTION",
+      "disc": 0.02
+    },
+    {
+      "id": 1060,
+      "name": "TERBISIL SPRAY",
+      "disc": 0.02
+    },
+    {
+      "id": 1061,
+      "name": "TERBISIL-125MG TABLETS.",
+      "disc": 0.03
+    },
+    {
+      "id": 1062,
+      "name": "TERLAX-2MG TAB.",
+      "disc": 0.15
+    },
+    {
+      "id": 1063,
+      "name": "TERLEX 4MG TAB.",
+      "disc": 0.15
+    },
+    {
+      "id": 1064,
+      "name": "THIOLAX CAP.",
+      "disc": 0
+    },
+    {
+      "id": 1065,
+      "name": "TIBOL 2.5",
+      "disc": 0.06
+    },
+    {
+      "id": 1066,
+      "name": "TICON GEL.",
+      "disc": 0.05
+    },
+    {
+      "id": 1067,
+      "name": "TINOSTAL D 1200",
+      "disc": 0
+    },
+    {
+      "id": 1068,
+      "name": "TINOSTOL CAP",
+      "disc": 0
+    },
+    {
+      "id": 1069,
+      "name": "TIOVAIR-18MMG CAP",
+      "disc": 0
+    },
+    {
+      "id": 1070,
+      "name": "VENTACID 60",
+      "disc": 0.01
+    },
+    {
+      "id": 1071,
+      "name": "VENTRICORT 200",
+      "disc": 0.03
+    },
+    {
+      "id": 1072,
+      "name": "VENTRICORT 400",
+      "disc": 0.02
+    },
+    {
+      "id": 1073,
+      "name": "VEPRIDONE-2MG.",
+      "disc": 0
+    },
+    {
+      "id": 1074,
+      "name": "VEPRIDONE-4MG.",
+      "disc": 0
+    },
+    {
+      "id": 1075,
+      "name": "VETRAWIN 250MG TAB.",
+      "disc": 0.03
+    },
+    {
+      "id": 1076,
+      "name": "VETRAWIN 500MG TAB.",
+      "disc": 0.05
+    },
+    {
+      "id": 1077,
+      "name": "VICKS BALM.",
+      "disc": 0.02
+    },
+    {
+      "id": 1078,
+      "name": "VIGLIP -50 TAB.",
+      "disc": 0.07
+    },
+    {
+      "id": 1079,
+      "name": "VIGLIP M 50/1000.",
+      "disc": 0.07
+    },
+    {
+      "id": 1080,
+      "name": "VIGLIP M 50/500",
+      "disc": 0.08
+    },
+    {
+      "id": 1081,
+      "name": "VIGLIP M 50/850",
+      "disc": 0.06
+    },
+    {
+      "id": 1082,
+      "name": "VIGO ESSENTIAL",
+      "disc": 0.15
+    },
+    {
+      "id": 1083,
+      "name": "VIPHOS B SYRUP",
+      "disc": 0
+    },
+    {
+      "id": 1084,
+      "name": "VISOL GEL.",
+      "disc": 0.19
+    },
+    {
+      "id": 1085,
+      "name": "VITA CARE SOAP.",
+      "disc": 0.01
+    },
+    {
+      "id": 1086,
+      "name": "VITA-6 TAB* MANDOZA",
+      "disc": 0
+    },
+    {
+      "id": 1087,
+      "name": "VITAMAX ONE A DAY MULT 30 TAB",
+      "disc": 0.01
+    },
+    {
+      "id": 1088,
+      "name": "VITAMAX ONE A DAY MULTI 60 TAB",
+      "disc": 0.01
+    },
+    {
+      "id": 1089,
+      "name": "VITAMAX SOAP.",
+      "disc": 0.05
+    },
+    {
+      "id": 1090,
+      "name": "VITAMAX SYP NUTRIFACTOR",
+      "disc": 0.01
+    },
+    {
+      "id": 1091,
+      "name": "VITAMAX WOMEN 60 TABLETS",
+      "disc": 0.01
+    },
+    {
+      "id": 1092,
+      "name": "VITAMIN-C 500 NATURE BOUNTY",
+      "disc": 0.09
+    },
+    {
+      "id": 1093,
+      "name": "VITOCAL TAB",
+      "disc": 0.02
+    },
+    {
+      "id": 1094,
+      "name": "VITRUM 450",
+      "disc": 0.02
+    },
+    {
+      "id": 1095,
+      "name": "VIVOPTAL MULTI",
+      "disc": 0.05
+    },
+    {
+      "id": 1096,
+      "name": "VOCINTEE 10",
+      "disc": 0.02
+    },
+    {
+      "id": 1097,
+      "name": "VOCINTY 20",
+      "disc": 0.01
+    },
+    {
+      "id": 1098,
+      "name": "VOLTAFLAM- 50MG  TAB.",
+      "disc": 0.01
+    },
+    {
+      "id": 1099,
+      "name": "VOLTAFLAM-100MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 1100,
+      "name": "VOLTRAL GEL 2%",
+      "disc": 0
+    },
+    {
+      "id": 1101,
+      "name": "VOLTRAL GEL. (LARGE)",
+      "disc": 0
+    },
+    {
+      "id": 1102,
+      "name": "VOLTRAL GEL. (SMALL)",
+      "disc": 0
+    },
+    {
+      "id": 1103,
+      "name": "VONNP 10",
+      "disc": 0
+    },
+    {
+      "id": 1104,
+      "name": "VONNP 20",
+      "disc": 0
+    },
+    {
+      "id": 1105,
+      "name": "VOREN 50MG TAB.",
+      "disc": 0.02
+    },
+    {
+      "id": 1106,
+      "name": "VOREN INJECTION +",
+      "disc": 0.06
+    },
+    {
+      "id": 1107,
+      "name": "VOREN SR TAB.",
+      "disc": 0.03
+    },
+    {
+      "id": 1108,
+      "name": "WILGESIC TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 1109,
+      "name": "WILSOP 60",
+      "disc": 0.09
+    },
+    {
+      "id": 1110,
+      "name": "WIWED TREATMENT SHAMPOO.",
+      "disc": 0.01
+    },
+    {
+      "id": 1111,
+      "name": "WIWID LOTION",
+      "disc": 0.02
+    },
+    {
+      "id": 1112,
+      "name": "X-PLENDED-20MG TAB.",
+      "disc": 0
+    },
+    {
+      "id": 1113,
+      "name": "XALTIDE-INHALER",
+      "disc": 0
+    },
+    {
+      "id": 1114,
+      "name": "XAVOR 50 TAB.",
+      "disc": 0.06
+    },
+    {
+      "id": 1115,
+      "name": "XCEPT 20 TAB",
+      "disc": 0
+    },
+    {
+      "id": 1116,
+      "name": "XETICAM 250",
+      "disc": 0.04
+    },
+    {
+      "id": 1117,
+      "name": "XIGA 10",
+      "disc": 0.04
+    },
+    {
+      "id": 1118,
+      "name": "XIGA 5",
+      "disc": 0.06
+    },
+    {
+      "id": 1119,
+      "name": "XOBIX 7.5MG",
+      "disc": 0
+    },
+    {
+      "id": 1120,
+      "name": "XYLOR 10MG TAB.",
+      "disc": 0.04
+    },
+    {
+      "id": 1121,
+      "name": "XYNOSINE DROPS.",
+      "disc": 0
+    },
+    {
+      "id": 1122,
+      "name": "XYNOSINE DROPS.",
+      "disc": 0
+    },
+    {
+      "id": 1123,
+      "name": "YTIG PLUS",
+      "disc": 0
+    },
+    {
+      "id": 1124,
+      "name": "YTIG-MI SACHET",
+      "disc": 0.02
+    }
+  ]
